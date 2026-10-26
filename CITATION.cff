@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this reading companion, please cite it as below, and cite the original studies you draw on."
+type: software
+title: "Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation. A reading companion to the talk"
+authors:
+  - family-names: Hu
+    given-names: Shiyu
+version: 0.1.0
+date-released: 2026-11-03
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/huuuuusy/studying-the-mind-with-ai"
+keywords:
+  - trustworthy AI
+  - human-machine comparison
+  - psychology and artificial intelligence
+  - error consistency
+  - inter-rater agreement
+  - manipulation check
+  - reading list

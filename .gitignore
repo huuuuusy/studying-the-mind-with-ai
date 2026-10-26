@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.cache/
+.DS_Store
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+toolkit/experiments/check3/results_replay/
+toolkit/experiments/check3/results_fresh/
+toolkit/experiments/check3/results/*/.mplconfig/
+toolkit/experiments/check3/results/.mplconfig/
+
+# Files the guides' commands write in toolkit/ (blind-rating sheet and key, your own outputs).
+# The key says which answers came from people: keep it out of any repository.
+toolkit/sheet.csv
+toolkit/key.csv
+toolkit/my_data/

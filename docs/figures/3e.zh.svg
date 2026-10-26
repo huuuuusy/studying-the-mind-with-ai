@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 336" width="960" height="336">
+<title>3E：测验的三个位置，以及在每个位置上信得过 AI 需要什么</title>
+<rect width="960" height="336" fill="#FFFFFF"/>
+<text x="24" y="34" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="13.5" font-weight="700" fill="#1E2A5E" text-anchor="start" letter-spacing="0.6">测验有三个位置，原本都由人来占：3E</text>
+<rect x="24" y="52" width="296" height="70" rx="10" fill="#FFFFFF" stroke="#1F4FA3" stroke-width="2"/>
+<rect x="24" y="52" width="9" height="70" rx="4" fill="#1F4FA3"/>
+<circle cx="292" cy="74" r="11" fill="#1F4FA3" stroke="#FFFFFF" stroke-width="2"/><text x="292" y="79" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="48" y="82" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="18" font-weight="700" fill="#16213D" text-anchor="start">执行者</text>
+<text x="48" y="104" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="13" font-weight="400" fill="#465069" text-anchor="start">被试：一个人或一个模型</text>
+<rect x="340" y="52" width="296" height="70" rx="10" fill="#FFFFFF" stroke="#0E8C7E" stroke-width="2"/>
+<rect x="340" y="52" width="9" height="70" rx="4" fill="#0E8C7E"/>
+<circle cx="608" cy="74" r="11" fill="#0E8C7E" stroke="#FFFFFF" stroke-width="2"/><text x="608" y="79" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="364" y="82" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="18" font-weight="700" fill="#16213D" text-anchor="start">评测</text>
+<text x="364" y="104" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="13" font-weight="400" fill="#465069" text-anchor="start">测量：一群人，或一个模型</text>
+<rect x="656" y="52" width="296" height="70" rx="10" fill="#FFFFFF" stroke="#5E6E8F" stroke-width="2"/>
+<rect x="656" y="52" width="9" height="70" rx="4" fill="#5E6E8F"/>
+<circle cx="924" cy="74" r="11" fill="#9A6700" stroke="#FFFFFF" stroke-width="2"/><text x="924" y="79" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="680" y="82" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="18" font-weight="700" fill="#16213D" text-anchor="start">环境</text>
+<text x="680" y="104" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="13" font-weight="400" fill="#465069" text-anchor="start">刺激、条件，还有别人</text>
+<line x1="24" y1="146" x2="952" y2="146" stroke="#DDE1EA"/>
+<text x="24" y="176" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="13.5" font-weight="700" fill="#1E2A5E" text-anchor="start" letter-spacing="0.6">如今 AI 坐进了每个位置；要信得过它，每个位置都需要一个条件</text>
+<rect x="24" y="192" width="296" height="104" rx="12" fill="#EBEFF7"/>
+<svg x="32" y="200" width="120" height="84.0" viewBox="0 0 600 420">
+<circle cx="300" cy="215" r="192" fill="#EBEFF7"/>
+<path d="M244,52 H356 Q360,52 360,56 V134 Q360,138 356,138 H244 Q240,138 240,134 V56 Q240,52 244,52 Z" transform="translate(4,4)" fill="#FFFFFF"/>
+<path d="M285.0,103.25 A5,5 0 1,0 295.0,103.25 A5,5 0 1,0 285.0,103.25 Z" transform="translate(0,0)" fill="#7995C8"/>
+<path d="M140.0,276 C140.0,232.0 156.0,224.0 190,222.0 C224.0,224.0 240.0,232.0 240.0,276" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M166.0,184.0 A24.0,24.0 0 1,0 214.0,184.0 A24.0,24.0 0 1,0 166.0,184.0 Z" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M360.0,276 V236.0 Q360.0,222.0 374.0,222.0 H446.0 Q460.0,222.0 460.0,236.0 V276" transform="translate(5,4)" fill="#D1D6DD"/>
+<path d="M392.0,159.0 H428.0 Q440.0,159.0 440.0,171.0 V197.0 Q440.0,209.0 428.0,209.0 H392.0 Q380.0,209.0 380.0,197.0 V171.0 Q380.0,159.0 392.0,159.0 Z" transform="translate(5,4)" fill="#D1D6DD"/>
+<path d="M398.0,175.0 H422.0 Q430.0,175.0 430.0,183.0 V185.0 Q430.0,193.0 422.0,193.0 H398.0 Q390.0,193.0 390.0,185.0 V183.0 Q390.0,175.0 398.0,175.0 Z" transform="translate(0,0)" fill="#FFFFFF"/>
+<path d="M99,276 H501 Q504,276 504,279 V284 Q504,287 501,287 H99 Q96,287 96,284 V279 Q96,276 99,276 Z" transform="translate(4,3)" fill="#EDE7DD"/>
+<path d="M244,52 H356 Q360,52 360,56 V134 Q360,138 356,138 H244 Q240,138 240,134 V56 Q240,52 244,52 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300.0,30.0 L276.0,52.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300.0,30.0 L324.0,52.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="300" cy="30" r="2.6" fill="#16213D"/>
+<path d="M262,118 C280,96 300,112 318,84 C326,74 334,76 340,70" fill="none" stroke="#6284BF" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<path d="M285.0,103.25 A5,5 0 1,0 295.0,103.25 A5,5 0 1,0 285.0,103.25 Z" fill="none" stroke="#16213D" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M280.0,91.25 H300.0 Q302.0,91.25 302.0,93.25 V113.25 Q302.0,115.25 300.0,115.25 H280.0 Q278.0,115.25 278.0,113.25 V93.25 Q278.0,91.25 280.0,91.25 Z" fill="none" stroke="#1F4FA3" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140.0,276 C140.0,232.0 156.0,224.0 190,222.0 C224.0,224.0 240.0,232.0 240.0,276" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M183.0,206.0 L183.0,222.0" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M197.0,206.0 L197.0,222.0" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M166.0,184.0 A24.0,24.0 0 1,0 214.0,184.0 A24.0,24.0 0 1,0 166.0,184.0 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M163.0,194.0 C160.0,154.0 220.0,154.0 217.0,194.0 L210.0,194.0 C208.0,170.0 172.0,170.0 170.0,194.0 Z" fill="#16213D"/>
+<path d="M360.0,276 V236.0 Q360.0,222.0 374.0,222.0 H446.0 Q460.0,222.0 460.0,236.0 V276" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M404.0,209.0 L404.0,222.0" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M416.0,209.0 L416.0,222.0" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M392.0,159.0 H428.0 Q440.0,159.0 440.0,171.0 V197.0 Q440.0,209.0 428.0,209.0 H392.0 Q380.0,209.0 380.0,197.0 V171.0 Q380.0,159.0 392.0,159.0 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M410.0,159.0 L410.0,145.0" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="410" cy="143.0" r="4.2" fill="#16213D"/>
+<path d="M398.0,175.0 H422.0 Q430.0,175.0 430.0,183.0 V185.0 Q430.0,193.0 422.0,193.0 H398.0 Q390.0,193.0 390.0,185.0 V183.0 Q390.0,175.0 398.0,175.0 Z" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="402.0" cy="184.0" r="3.2" fill="#16213D"/>
+<circle cx="418.0" cy="184.0" r="3.2" fill="#16213D"/>
+<path d="M403.0,248.0 A7.0,7.0 0 1,0 417.0,248.0 A7.0,7.0 0 1,0 403.0,248.0 Z" fill="none" stroke="#16213D" stroke-width="1.68" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M99,276 H501 Q504,276 504,279 V284 Q504,287 501,287 H99 Q96,287 96,284 V279 Q96,276 99,276 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M122.0,287.0 L122.0,357.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M478.0,287.0 L478.0,357.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M116.0,287.0 L116.0,294.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M128.0,287.0 L128.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140.0,287.0 L140.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M152.0,287.0 L152.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M164.0,287.0 L164.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M176.0,287.0 L176.0,294.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M188.0,287.0 L188.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M200.0,287.0 L200.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M212.0,287.0 L212.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M224.0,287.0 L224.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M236.0,287.0 L236.0,294.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M248.0,287.0 L248.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M260.0,287.0 L260.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M272.0,287.0 L272.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M284.0,287.0 L284.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M296.0,287.0 L296.0,294.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M308.0,287.0 L308.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M320.0,287.0 L320.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M332.0,287.0 L332.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M344.0,287.0 L344.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M356.0,287.0 L356.0,294.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M368.0,287.0 L368.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M380.0,287.0 L380.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M392.0,287.0 L392.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M404.0,287.0 L404.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M416.0,287.0 L416.0,294.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M428.0,287.0 L428.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M440.0,287.0 L440.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M452.0,287.0 L452.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M464.0,287.0 L464.0,291.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M476.0,287.0 L476.0,294.0" fill="none" stroke="#16213D" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0,360.0 L530.0,360.0" fill="none" stroke="#ADB1BB" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<circle cx="172" cy="214" r="12" fill="#1F4FA3" stroke="#FFFFFF" stroke-width="2"/><text x="172" y="219" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="192" y="219" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="16" font-weight="700" fill="#16213D" text-anchor="start">一个人</text>
+<text x="164" y="248" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="13.5" font-weight="600" fill="#16213D" text-anchor="start">答对了，理由也对吗？</text>
+<text x="164" y="268" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="12.5" font-weight="400" fill="#465069" text-anchor="start">比错误</text>
+<rect x="340" y="192" width="296" height="104" rx="12" fill="#ECF4F4"/>
+<svg x="348" y="200" width="120" height="84.0" viewBox="0 0 600 420">
+<circle cx="300" cy="200" r="196" fill="#ECF4F4"/>
+<path d="M176,34 H424 Q430,34 430,40 V178 Q430,184 424,184 H176 Q170,184 170,178 V40 Q170,34 176,34 Z" transform="translate(5,5)" fill="#FFFFFF"/>
+<path d="M325,156 A9,9 0 1,0 343,156 A9,9 0 1,0 325,156 Z" transform="translate(0,0)" fill="#9EC6C6"/>
+<path d="M48.5,420 C48.5,378.2 63.7,370.6 96,368.70000000000005 C128.3,370.6 143.5,378.2 143.5,420" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M73.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 118.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 73.2,332.6 Z" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M107.0,235.0 H129.0 Q141.0,235.0 141.0,247.0 V257.0 Q141.0,269.0 129.0,269.0 H107.0 Q95.0,269.0 95.0,257.0 V247.0 Q95.0,235.0 107.0,235.0 Z M112,269.0 L116,279.0 L122,269.0" transform="translate(3,3)" fill="#FFFFFF"/>
+<path d="M118,243 C110,254 112,261 118,261 C124,261 126,254 118,243 Z" transform="translate(0,0)" fill="#8FA7D1"/>
+<path d="M130.5,420 C130.5,378.2 145.7,370.6 178,368.70000000000005 C210.3,370.6 225.5,378.2 225.5,420" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M155.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 200.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 155.2,332.6 Z" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M189.0,235.0 H211.0 Q223.0,235.0 223.0,247.0 V257.0 Q223.0,269.0 211.0,269.0 H189.0 Q177.0,269.0 177.0,257.0 V247.0 Q177.0,235.0 189.0,235.0 Z M194,269.0 L198,279.0 L204,269.0" transform="translate(3,3)" fill="#FFFFFF"/>
+<path d="M212.5,420 C212.5,378.2 227.7,370.6 260,368.70000000000005 C292.3,370.6 307.5,378.2 307.5,420" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M237.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 282.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 237.2,332.6 Z" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M271.0,235.0 H293.0 Q305.0,235.0 305.0,247.0 V257.0 Q305.0,269.0 293.0,269.0 H271.0 Q259.0,269.0 259.0,257.0 V247.0 Q259.0,235.0 271.0,235.0 Z M276,269.0 L280,279.0 L286,269.0" transform="translate(3,3)" fill="#FFFFFF"/>
+<path d="M294.5,420 C294.5,378.2 309.7,370.6 342,368.70000000000005 C374.3,370.6 389.5,378.2 389.5,420" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M319.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 364.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 319.2,332.6 Z" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M353.0,235.0 H375.0 Q387.0,235.0 387.0,247.0 V257.0 Q387.0,269.0 375.0,269.0 H353.0 Q341.0,269.0 341.0,257.0 V247.0 Q341.0,235.0 353.0,235.0 Z M358,269.0 L362,279.0 L368,269.0" transform="translate(3,3)" fill="#FFFFFF"/>
+<path d="M376.5,420 C376.5,378.2 391.7,370.6 424,368.70000000000005 C456.3,370.6 471.5,378.2 471.5,420" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M401.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 446.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 401.2,332.6 Z" transform="translate(5,4)" fill="#F2E6DA"/>
+<path d="M435.0,235.0 H457.0 Q469.0,235.0 469.0,247.0 V257.0 Q469.0,269.0 457.0,269.0 H435.0 Q423.0,269.0 423.0,257.0 V247.0 Q423.0,235.0 435.0,235.0 Z M440,269.0 L444,279.0 L450,269.0" transform="translate(3,3)" fill="#FFFFFF"/>
+<path d="M446,243 C438,254 440,261 446,261 C452,261 454,254 446,243 Z" transform="translate(0,0)" fill="#8FA7D1"/>
+<path d="M462.5,420 V382.0 Q462.5,368.70000000000005 475.8,368.70000000000005 H544.2 Q557.5,368.70000000000005 557.5,382.0 V420" transform="translate(5,4)" fill="#D1D6DD"/>
+<path d="M492.9,308.85 H527.1 Q538.5,308.85 538.5,320.25 V344.95000000000005 Q538.5,356.35 527.1,356.35 H492.9 Q481.5,356.35 481.5,344.95000000000005 V320.25 Q481.5,308.85 492.9,308.85 Z" transform="translate(5,4)" fill="#D1D6DD"/>
+<path d="M521.0,235.0 H543.0 Q555.0,235.0 555.0,247.0 V257.0 Q555.0,269.0 543.0,269.0 H521.0 Q509.0,269.0 509.0,257.0 V247.0 Q509.0,235.0 521.0,235.0 Z M526,269.0 L530,279.0 L536,269.0" transform="translate(3,3)" fill="#E1E4E9"/>
+<path d="M532,243 C524,254 526,261 532,261 C538,261 540,254 532,243 Z" transform="translate(0,0)" fill="#8FA7D1"/>
+<path d="M176,34 H424 Q430,34 430,40 V178 Q430,184 424,184 H176 Q170,184 170,178 V40 Q170,34 176,34 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M225,152 A15,15 0 1,0 255,152 A15,15 0 1,0 225,152 Z" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M283,160 A15,15 0 1,0 313,160 A15,15 0 1,0 283,160 Z" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M240.0,152.0 L268.0,140.0 L298.0,160.0" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M268.0,140.0 L262.0,126.0" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M254.0,124.0 L270.0,128.0" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M325,156 A9,9 0 1,0 343,156 A9,9 0 1,0 325,156 Z" fill="none" stroke="#16213D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M342,160 C356,162 372,164 384,162" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M356.0,162.0 L366.0,150.0" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M384.0,162.0 L394.0,154.0" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M384.0,162.0 L396.0,166.0" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M200.0,175.0 L400.0,175.0" fill="none" stroke="#A2A6B1" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48.5,420 C48.5,378.2 63.7,370.6 96,368.70000000000005 C128.3,370.6 143.5,378.2 143.5,420" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M89.3,353.4 L89.3,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M102.7,353.4 L102.7,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M73.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 118.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 73.2,332.6 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.2,345.90000000000003 C67.2,302.20000000000005 124.8,302.20000000000005 121.8,345.90000000000003 Z" fill="#16213D"/>
+<path d="M107.0,235.0 H129.0 Q141.0,235.0 141.0,247.0 V257.0 Q141.0,269.0 129.0,269.0 H107.0 Q95.0,269.0 95.0,257.0 V247.0 Q95.0,235.0 107.0,235.0 Z M112,269.0 L116,279.0 L122,269.0" fill="none" stroke="#16213D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M118,243 C110,254 112,261 118,261 C124,261 126,254 118,243 Z" fill="none" stroke="#16213D" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M130.5,420 C130.5,378.2 145.7,370.6 178,368.70000000000005 C210.3,370.6 225.5,378.2 225.5,420" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M171.3,353.4 L171.3,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M184.7,353.4 L184.7,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M155.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 200.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 155.2,332.6 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M155.2,336.40000000000003 C155.2,304.1 200.8,304.1 200.8,336.40000000000003 Z" fill="#16213D"/>
+<path d="M189.0,235.0 H211.0 Q223.0,235.0 223.0,247.0 V257.0 Q223.0,269.0 211.0,269.0 H189.0 Q177.0,269.0 177.0,257.0 V247.0 Q177.0,235.0 189.0,235.0 Z M194,269.0 L198,279.0 L204,269.0" fill="none" stroke="#16213D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M190,250 Q200,262 210,250" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M212.5,420 C212.5,378.2 227.7,370.6 260,368.70000000000005 C292.3,370.6 307.5,378.2 307.5,420" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M253.3,353.4 L253.3,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M266.6,353.4 L266.6,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M237.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 282.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 237.2,332.6 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M251.45,304.1 A8.549999999999999,8.549999999999999 0 1,0 268.55,304.1 A8.549999999999999,8.549999999999999 0 1,0 251.45,304.1 Z" fill="#16213D"/>
+<path d="M237.2,336.40000000000003 C237.2,304.1 282.8,304.1 282.8,336.40000000000003 Z" fill="#16213D"/>
+<path d="M271.0,235.0 H293.0 Q305.0,235.0 305.0,247.0 V257.0 Q305.0,269.0 293.0,269.0 H271.0 Q259.0,269.0 259.0,257.0 V247.0 Q259.0,235.0 271.0,235.0 Z M276,269.0 L280,279.0 L286,269.0" fill="none" stroke="#16213D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M276,246 C276,239 289,239 289,247 C289,253 282,252 282,257" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="282" cy="262" r="1.8" fill="#16213D"/>
+<path d="M294.5,420 C294.5,378.2 309.7,370.6 342,368.70000000000005 C374.3,370.6 389.5,378.2 389.5,420" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M335.4,353.4 L335.4,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M348.6,353.4 L348.6,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M319.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 364.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 319.2,332.6 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M319.2,336.40000000000003 C319.2,304.1 364.8,304.1 364.8,336.40000000000003 Z" fill="#16213D"/>
+<path d="M353.0,235.0 H375.0 Q387.0,235.0 387.0,247.0 V257.0 Q387.0,269.0 375.0,269.0 H353.0 Q341.0,269.0 341.0,257.0 V247.0 Q341.0,235.0 353.0,235.0 Z M358,269.0 L362,279.0 L368,269.0" fill="none" stroke="#16213D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M352,254 L358,246 L364,254 L370,246 L376,254" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M376.5,420 C376.5,378.2 391.7,370.6 424,368.70000000000005 C456.3,370.6 471.5,378.2 471.5,420" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M417.4,353.4 L417.4,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M430.6,353.4 L430.6,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M401.2,332.6 A22.799999999999997,22.799999999999997 0 1,0 446.8,332.6 A22.799999999999997,22.799999999999997 0 1,0 401.2,332.6 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M398.2,345.90000000000003 C395.2,302.20000000000005 452.8,302.20000000000005 449.8,345.90000000000003 Z" fill="#16213D"/>
+<path d="M435.0,235.0 H457.0 Q469.0,235.0 469.0,247.0 V257.0 Q469.0,269.0 457.0,269.0 H435.0 Q423.0,269.0 423.0,257.0 V247.0 Q423.0,235.0 435.0,235.0 Z M440,269.0 L444,279.0 L450,269.0" fill="none" stroke="#16213D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M446,243 C438,254 440,261 446,261 C452,261 454,254 446,243 Z" fill="none" stroke="#16213D" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M462.5,420 V382.0 Q462.5,368.70000000000005 475.8,368.70000000000005 H544.2 Q557.5,368.70000000000005 557.5,382.0 V420" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M504.3,356.4 L504.3,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M515.7,356.4 L515.7,368.7" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M492.9,308.85 H527.1 Q538.5,308.85 538.5,320.25 V344.95000000000005 Q538.5,356.35 527.1,356.35 H492.9 Q481.5,356.35 481.5,344.95000000000005 V320.25 Q481.5,308.85 492.9,308.85 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M510.0,308.9 L510.0,295.6" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="510" cy="293.65000000000003" r="3.9899999999999998" fill="#16213D"/>
+<path d="M521.0,235.0 H543.0 Q555.0,235.0 555.0,247.0 V257.0 Q555.0,269.0 543.0,269.0 H521.0 Q509.0,269.0 509.0,257.0 V247.0 Q509.0,235.0 521.0,235.0 Z M526,269.0 L530,279.0 L536,269.0" fill="none" stroke="#16213D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M532,243 C524,254 526,261 532,261 C538,261 540,254 532,243 Z" fill="none" stroke="#16213D" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<circle cx="488" cy="214" r="12" fill="#0E8C7E" stroke="#FFFFFF" stroke-width="2"/><text x="488" y="219" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="508" y="219" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="16" font-weight="700" fill="#16213D" text-anchor="start">一群人</text>
+<text x="480" y="248" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="13.5" font-weight="600" fill="#16213D" text-anchor="start">它遵循谁的标准？</text>
+<text x="480" y="268" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="12.5" font-weight="400" fill="#465069" text-anchor="start">拿一群人比</text>
+<rect x="656" y="192" width="296" height="104" rx="12" fill="#F6F1E8"/>
+<svg x="664" y="200" width="120" height="84.0" viewBox="0 0 600 420">
+<circle cx="300" cy="230" r="186" fill="#F6F1E8"/>
+<path d="M292,-10 H308 Q316,-10 316,-2 V22 Q316,30 308,30 H292 Q284,30 284,22 V-2 Q284,-10 292,-10 Z" transform="translate(3,3)" fill="#F2E6DA"/>
+<path d="M270,44 C270,24 330,24 330,44 C330,58 270,58 270,44 Z" transform="translate(3,3)" fill="#F2E6DA"/>
+<path d="M276,46 H277 Q282,46 282,51 V72.0 Q282,77.0 277,77.0 H276 Q271,77.0 271,72.0 V51 Q271,46 276,46 Z" transform="translate(2,2)" fill="#F2E6DA"/>
+<path d="M290,46 H291 Q296,46 296,51 V74.0 Q296,79.0 291,79.0 H290 Q285,79.0 285,74.0 V51 Q285,46 290,46 Z" transform="translate(2,2)" fill="#F2E6DA"/>
+<path d="M304,46 H305 Q310,46 310,51 V74.0 Q310,79.0 305,79.0 H304 Q299,79.0 299,74.0 V51 Q299,46 304,46 Z" transform="translate(2,2)" fill="#F2E6DA"/>
+<path d="M318,46 H319 Q324,46 324,51 V72.0 Q324,77.0 319,77.0 H318 Q313,77.0 313,72.0 V51 Q313,46 318,46 Z" transform="translate(2,2)" fill="#F2E6DA"/>
+<path d="M110.0,70.0 L490.0,70.0 L490.0,79.0 L110.0,79.0 Z" transform="translate(3,3)" fill="#C5C8CE"/>
+<path d="M125.0,300.0 C125.0,260.4 139.4,253.2 170.0,251.39999999999998 C200.6,253.2 215.0,260.4 215.0,300.0" transform="translate(5,4)" fill="#D4D9DF"/>
+<path d="M148.4,217.2 A21.6,21.6 0 1,0 191.6,217.2 A21.6,21.6 0 1,0 148.4,217.2 Z" transform="translate(5,4)" fill="#D4D9DF"/>
+<path d="M111,300 H229 Q232,300 232,303 V307 Q232,310 229,310 H111 Q108,310 108,307 V303 Q108,300 111,300 Z" transform="translate(3,3)" fill="#EDE7DD"/>
+<path d="M255.0,300.0 C255.0,260.4 269.4,253.2 300.0,251.39999999999998 C330.6,253.2 345.0,260.4 345.0,300.0" transform="translate(5,4)" fill="#D4D9DF"/>
+<path d="M278.4,217.2 A21.6,21.6 0 1,0 321.6,217.2 A21.6,21.6 0 1,0 278.4,217.2 Z" transform="translate(5,4)" fill="#D4D9DF"/>
+<path d="M241,300 H359 Q362,300 362,303 V307 Q362,310 359,310 H241 Q238,310 238,307 V303 Q238,300 241,300 Z" transform="translate(3,3)" fill="#EDE7DD"/>
+<path d="M385.0,300.0 C385.0,260.4 399.4,253.2 430.0,251.39999999999998 C460.6,253.2 475.0,260.4 475.0,300.0" transform="translate(5,4)" fill="#D4D9DF"/>
+<path d="M408.4,217.2 A21.6,21.6 0 1,0 451.6,217.2 A21.6,21.6 0 1,0 408.4,217.2 Z" transform="translate(5,4)" fill="#D4D9DF"/>
+<path d="M371,300 H489 Q492,300 492,303 V307 Q492,310 489,310 H371 Q368,310 368,307 V303 Q368,300 371,300 Z" transform="translate(3,3)" fill="#EDE7DD"/>
+<path d="M292,-10 H308 Q316,-10 316,-2 V22 Q316,30 308,30 H292 Q284,30 284,22 V-2 Q284,-10 292,-10 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M270,44 C270,24 330,24 330,44 C330,58 270,58 270,44 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M276,46 H277 Q282,46 282,51 V72.0 Q282,77.0 277,77.0 H276 Q271,77.0 271,72.0 V51 Q271,46 276,46 Z" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M290,46 H291 Q296,46 296,51 V74.0 Q296,79.0 291,79.0 H290 Q285,79.0 285,74.0 V51 Q285,46 290,46 Z" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M304,46 H305 Q310,46 310,51 V74.0 Q310,79.0 305,79.0 H304 Q299,79.0 299,74.0 V51 Q299,46 304,46 Z" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M318,46 H319 Q324,46 324,51 V72.0 Q324,77.0 319,77.0 H318 Q313,77.0 313,72.0 V51 Q313,46 318,46 Z" fill="none" stroke="#16213D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M110.0,70.0 L490.0,70.0 L490.0,79.0 L110.0,79.0 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M170.0,79.0 Q170.0,137.1 170.0,195.2" fill="none" stroke="#7F8594" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="170.0" cy="79.0" r="2.2" fill="#16213D"/>
+<path d="M136.0,79.0 Q136.0,172.1 136.0,265.2" fill="none" stroke="#7F8594" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="136.0" cy="79.0" r="2.2" fill="#16213D"/>
+<path d="M204.0,79.0 Q204.0,172.1 204.0,265.2" fill="none" stroke="#7F8594" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="204.0" cy="79.0" r="2.2" fill="#16213D"/>
+<path d="M125.0,300.0 C125.0,260.4 139.4,253.2 170.0,251.39999999999998 C200.6,253.2 215.0,260.4 215.0,300.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M163.7,236.8 L163.7,251.4" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M176.3,236.8 L176.3,251.4" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M148.4,217.2 A21.6,21.6 0 1,0 191.6,217.2 A21.6,21.6 0 1,0 148.4,217.2 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M145.4,226.2 C142.4,190.2 197.6,190.2 194.6,226.2 L187.6,226.2 C185.6,204.6 154.4,204.6 152.4,226.2 Z" fill="#16213D"/>
+<path d="M111,300 H229 Q232,300 232,303 V307 Q232,310 229,310 H111 Q108,310 108,307 V303 Q108,300 111,300 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M122.0,310.0 L122.0,372.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M218.0,310.0 L218.0,372.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300.0,79.0 Q300.0,137.1 300.0,195.2" fill="none" stroke="#7F8594" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="300.0" cy="79.0" r="2.2" fill="#16213D"/>
+<path d="M266.0,79.0 Q266.0,172.1 266.0,265.2" fill="none" stroke="#7F8594" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="266.0" cy="79.0" r="2.2" fill="#16213D"/>
+<path d="M334.0,79.0 Q334.0,172.1 334.0,265.2" fill="none" stroke="#7F8594" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="334.0" cy="79.0" r="2.2" fill="#16213D"/>
+<path d="M255.0,300.0 C255.0,260.4 269.4,253.2 300.0,251.39999999999998 C330.6,253.2 345.0,260.4 345.0,300.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M293.7,236.8 L293.7,251.4" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M306.3,236.8 L306.3,251.4" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M278.4,217.2 A21.6,21.6 0 1,0 321.6,217.2 A21.6,21.6 0 1,0 278.4,217.2 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M278.4,215.39999999999998 C278.4,190.2 321.6,190.2 321.6,215.39999999999998 C314.40000000000003,204.6 285.59999999999997,204.6 278.4,215.39999999999998 Z" fill="#16213D"/>
+<path d="M241,300 H359 Q362,300 362,303 V307 Q362,310 359,310 H241 Q238,310 238,307 V303 Q238,300 241,300 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M252.0,310.0 L252.0,372.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M348.0,310.0 L348.0,372.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M430.0,79.0 Q430.0,137.1 430.0,195.2" fill="none" stroke="#7F8594" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="430.0" cy="79.0" r="2.2" fill="#16213D"/>
+<path d="M396.0,79.0 Q396.0,172.1 396.0,265.2" fill="none" stroke="#7F8594" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="396.0" cy="79.0" r="2.2" fill="#16213D"/>
+<path d="M464.0,79.0 Q464.0,172.1 464.0,265.2" fill="none" stroke="#7F8594" stroke-width="1.0" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="464.0" cy="79.0" r="2.2" fill="#16213D"/>
+<path d="M385.0,300.0 C385.0,260.4 399.4,253.2 430.0,251.39999999999998 C460.6,253.2 475.0,260.4 475.0,300.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M423.7,236.8 L423.7,251.4" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M436.3,236.8 L436.3,251.4" fill="none" stroke="#16213D" stroke-width="1.92" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M408.4,217.2 A21.6,21.6 0 1,0 451.6,217.2 A21.6,21.6 0 1,0 408.4,217.2 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M421.9,190.2 A8.1,8.1 0 1,0 438.1,190.2 A8.1,8.1 0 1,0 421.9,190.2 Z" fill="#16213D"/>
+<path d="M408.4,215.39999999999998 C408.4,190.2 451.6,190.2 451.6,215.39999999999998 C442.6,202.79999999999998 417.4,202.79999999999998 408.4,215.39999999999998 Z" fill="#16213D"/>
+<path d="M371,300 H489 Q492,300 492,303 V307 Q492,310 489,310 H371 Q368,310 368,307 V303 Q368,300 371,300 Z" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M382.0,310.0 L382.0,372.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M478.0,310.0 L478.0,372.0" fill="none" stroke="#16213D" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.0,372.0 L530.0,372.0" fill="none" stroke="#ADB1BB" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<circle cx="804" cy="214" r="12" fill="#9A6700" stroke="#FFFFFF" stroke-width="2"/><text x="804" y="219" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="824" y="219" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="16" font-weight="700" fill="#16213D" text-anchor="start">一个社会</text>
+<text x="796" y="248" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="13.5" font-weight="600" fill="#16213D" text-anchor="start">像到能研究我们吗？</text>
+<text x="796" y="268" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="12.5" font-weight="400" fill="#465069" text-anchor="start">拿真实的人比</text>
+<text x="24" y="322" font-family="'Source Sans 3', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', 'Source Han Sans SC', sans-serif" font-size="12.5" font-weight="400" fill="#8A91A3" text-anchor="start">3E 范式：S. Hu, X. Zhao, K. Huang, SOTVerse, International Journal of Computer Vision, 2024.</text>
+</svg>
