@@ -5,9 +5,11 @@ title: "Studying the Human Mind with AI: From Behavioral Analysis to Role Simula
 authors:
   - family-names: Hu
     given-names: Shiyu
+    affiliation: "Nanyang Technological University"
 version: 0.1.0
-date-released: 2026-11-03
+date-released: 2026-10-27
 license: CC-BY-NC-4.0
+abstract: "A bilingual (English and Chinese) reading companion to the talk Studying the Human Mind with AI: a start page, a guide to each of the talk's four parts, 22 one-page cards on key readings, a glossary, a reading path, a field-wide list of checked references, a guide to working with AI researchers, and a printable handout."
 repository-code: "https://github.com/huuuuusy/studying-the-mind-with-ai"
 keywords:
   - trustworthy AI
