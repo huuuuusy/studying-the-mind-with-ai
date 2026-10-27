@@ -2,6 +2,8 @@
 
 # Studying the Human Mind with AI
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23684070.svg)](https://doi.org/10.5281/zenodo.23684070)
+
 **A reading companion to the talk *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation*.** Where to read about what
 the talk showed, what its key terms mean, which studies to learn from, and how they connect.
 No code is needed.
@@ -83,7 +85,7 @@ when people disagree, or when AI takes people's place or works with them.
 
 ## How to cite
 
-Use **Cite this repository** on GitHub, or the [`CITATION.cff`](CITATION.cff) file. Please cite
+Use **Cite this repository** on GitHub, or the [`CITATION.cff`](CITATION.cff) file: Hu, S. (2026). *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation. A reading companion to the talk*. Zenodo. [doi:10.5281/zenodo.23684070](https://doi.org/10.5281/zenodo.23684070) Please cite
 the original studies for anything you take from them.
 
 ## Contributing

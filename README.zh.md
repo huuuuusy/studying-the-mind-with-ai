@@ -2,6 +2,8 @@
 
 # Studying the Human Mind with AI
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23684070.svg)](https://doi.org/10.5281/zenodo.23684070)
+
 **讲座 *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation*（用 AI 研究人的心智：从行为分析到角色模拟）的配套阅读指南。** 讲座里讲到的内容去哪里读，关键术语是什么意思，该从哪些研究学起，以及它们之间的关系。不需要写代码。
 
 ![讲座中的检验，按讲座里的样子画出](docs/figures/banner.zh.svg)
@@ -65,7 +67,7 @@
 
 ## 如何引用
 
-使用 GitHub 上的 **Cite this repository**，或者 [`CITATION.cff`](CITATION.cff) 文件。凡是从原始研究中取用的内容，请引用原始论文。
+使用 GitHub 上的 **Cite this repository**，或者 [`CITATION.cff`](CITATION.cff) 文件：Hu, S. (2026). *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation. A reading companion to the talk*. Zenodo. [doi:10.5281/zenodo.23684070](https://doi.org/10.5281/zenodo.23684070)凡是从原始研究中取用的内容，请引用原始论文。
 
 ## 参与贡献
 
