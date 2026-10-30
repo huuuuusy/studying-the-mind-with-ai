@@ -139,7 +139,7 @@ flowchart LR
 - **同一个任务，加上语言和长视频。** Hu, S., Zhang, D., Wu, M., Feng, X., Li, X., Zhao, X., & Huang, K. (2023). A multi-modal global instance tracking benchmark (MGIT): Better locating target in complex spatio-temporal and causal relationship. *NeurIPS 2023, Datasets and Benchmarks*. [doi](https://doi.org/10.52202/075280-1087)
 - **按人怎样把目标找回来造出的跟踪器（CPDTrack），以及它和人的错误比较。** Zhang, D., Hu, S., Feng, X., Li, X., Wu, M., Zhang, J., & Huang, K. (2024). Beyond accuracy: Tracking more like human via visual search. *NeurIPS 2024*. [doi](https://doi.org/10.52202/079017-0086)
 - **人机跟踪研究：火烈鸟那段视频，以及人是一个范围。** Zhao, X., Hu, S., & Yin, X.-C. (2025). *Visual object tracking: An evaluation perspective*. Springer. [doi](https://doi.org/10.1007/978-981-96-4558-9)
-- **3E 范式的出处。** Hu, S., Zhao, X., & Huang, K. (2024). SOTVerse: A user-defined task space of single object tracking. *International Journal of Computer Vision*, 132(3), 872–930. [doi](https://doi.org/10.1007/s11263-023-01908-5)
+- **跟踪的任务空间，以及其中的难帧。** Hu, S., Zhao, X., & Huang, K. (2024). SOTVerse: A user-defined task space of single object tracking. *International Journal of Computer Vision*, 132(3), 872–930. [doi](https://doi.org/10.1007/s11263-023-01908-5)
 
 ## 术语
 

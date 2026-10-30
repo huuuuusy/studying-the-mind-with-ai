@@ -61,7 +61,7 @@
 
 ## 关于
 
-由 **Shiyu Hu**（新加坡南洋理工大学数理科学学院 Research Fellow，[个人主页](https://hushiyu1995.com)）撰写和整理。结构沿用讲座。3E 范式在[开始页](docs/start-here.zh.md#四个问题背后测验的三个位置)上作为四个问题背后的一个可选框架介绍，它来自作者对照人来评测视觉智能的研究：S. Hu, X. Zhao, K. Huang, "SOTVerse: A user-defined task space of single object tracking," *International Journal of Computer Vision*, 2024（[doi](https://doi.org/10.1007/s11263-023-01908-5)）。
+由 **Shiyu Hu**（新加坡南洋理工大学数理科学学院 Research Fellow，[个人主页](https://hushiyu1995.com)）撰写和整理。结构沿用讲座。
 
 这个仓库属于作者[研究主线](https://hushiyu1995.com/#research-framework)中的 *Humans and AI*（人与 AI）这条线：人们意见不一时，或者 AI 代替人、和人一起工作时，什么才算对。
 

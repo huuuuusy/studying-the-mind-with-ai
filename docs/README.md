@@ -2,7 +2,7 @@
 
 | Page | What it gives you |
 |---|---|
-| [start-here.md](start-here.md) | five minutes: the talk's question, its four parts and their checks, the frame underneath, and where to go next |
+| [start-here.md](start-here.md) | five minutes: the talk's question, its four parts and their checks, and where to go next |
 | [part1-people-next-to-machine.md](part1-people-next-to-machine.md) | Part 1 of the talk, one person: people next to the machine |
 | [part2-people-as-the-answer.md](part2-people-as-the-answer.md) | Part 2, a group: people as the answer |
 | [part3-people-we-make.md](part3-people-we-make.md) | Part 3, a society: people we make |
@@ -20,8 +20,7 @@ Every page here has a Chinese version beside it, with the same name ending in `.
 |---|---|---|
 | `figures/banner.svg` | the checks from the talk, with its drawings | `python3 docs/figures/make_diagrams.py` |
 | `figures/route.svg` | the route of the talk: four questions, from one person to your own research, and the arrow that turns from psychology helping AI to AI helping psychology | same |
-| `figures/3e.svg` | 3E: the three places in a test (executor, evaluation, environment), and what trusting AI needs in each | same |
-| `figures/banner.zh.svg`, `figures/3e.zh.svg`, `figures/route.zh.svg` | the same three figures in Chinese | same |
+| `figures/banner.zh.svg`, `figures/route.zh.svg` | the same two figures in Chinese | same |
 | `figures/talk/` | drawings and animations made for the talk *Studying the Human Mind with AI* by Shiyu Hu: chapter plates (`plate1`–`plate4`, `cover`), Clever Hans, moving shapes after Heider and Simmel (1944), a simulated classroom; `slides/`: six slides from the talk, used in the guides and the handout | copied from the talk |
 
 Colours and typeface follow the talk: navy for text and structure; Part 1 blue,

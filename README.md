@@ -72,12 +72,7 @@ added. Links only: no papers are copied here.
 
 Written and organised by **Shiyu Hu**, Research Fellow, School of Physical and Mathematical
 Sciences, Nanyang Technological University, Singapore ([homepage](https://hushiyu1995.com)).
-The structure follows the talk. The 3E paradigm, offered on the
-[start page](docs/start-here.md#behind-the-four-questions-three-places-in-a-test) as an optional
-frame behind the four questions, comes from the author's research on evaluating visual
-intelligence against people: S. Hu, X. Zhao, K. Huang, "SOTVerse: A
-user-defined task space of single object tracking," *International Journal of Computer Vision*,
-2024 ([doi](https://doi.org/10.1007/s11263-023-01908-5)).
+The structure follows the talk.
 
 This repository belongs to the *Humans and AI* line of the author's
 [research](https://hushiyu1995.com/#research-framework), which asks what counts as being right

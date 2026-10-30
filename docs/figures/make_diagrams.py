@@ -1,4 +1,4 @@
-"""Write banner.svg, 3e.svg and route.svg here, with their Chinese versions (*.zh.svg):
+"""Write banner.svg and route.svg here, with their Chinese versions (*.zh.svg):
 
     python3 docs/figures/make_diagrams.py
 
@@ -73,36 +73,21 @@ def svg(w, h, title, parts):
             + "\n".join(parts) + "\n</svg>\n")
 
 
-T = {   # V8 of the talk (2026-10-26): three places in the background; the four questions and their checks
+T = {   # V8 of the talk: the first three questions and their checks
     "en": dict(
         habits={1: (("Compare the mistakes,", "not only the scores"), "Right answer, right reason?", "Part 1 · One person"),
                 2: (("Compare with a group,", "not one person"), "Whose standard does it follow?", "Part 2 · A group"),
                 3: (("Compare with", "real people"), "Like us enough to study us?", "Part 3 · A society")},
         in_talk="In the talk: ",
         banner_title="Checks from the talk Studying the Human Mind with AI",
-        k1="A test has three places, and people used to hold all three: 3E",
-        parts=[("Executor", "the participant: a person or a model"), ("Evaluation", "the measure: a group of people, or a model"),
-               ("Environment", "stimuli, conditions, and other people")],
-        k2="AI now takes each place; trusting it needs one thing in each",
-        places={1: ("One person", "Right answer, right reason?", "compare the mistakes"),
-                2: ("A group", "Whose standard?", "compare with a group"),
-                3: ("A society", "Like us enough to study us?", "compare with real people")},
-        cite="3E paradigm: S. Hu, X. Zhao, K. Huang, SOTVerse, International Journal of Computer Vision, 2024.",
-        e_title="3E: the three places in a test, and what trusting AI needs in each"),
+    ),
     "zh": dict(
         habits={1: (("比错误，不只比分数",), "答对了，理由也对吗？", "第 1 部分 · 一个人"),
                 2: (("拿一群人比，不拿一个人比",), "它遵循谁的标准？", "第 2 部分 · 一群人"),
                 3: (("拿真实的人比",), "它像我们，像到能研究我们吗？", "第 3 部分 · 一个社会")},
         in_talk="讲座里：",
         banner_title="讲座 Studying the Human Mind with AI 中的检验",
-        k1="测验有三个位置，原本都由人来占：3E",
-        parts=[("执行者", "被试：一个人或一个模型"), ("评测", "测量：一群人，或一个模型"), ("环境", "刺激、条件，还有别人")],
-        k2="如今 AI 坐进了每个位置；要信得过它，每个位置都需要一个条件",
-        places={1: ("一个人", "答对了，理由也对吗？", "比错误"),
-                2: ("一群人", "它遵循谁的标准？", "拿一群人比"),
-                3: ("一个社会", "像到能研究我们吗？", "拿真实的人比")},
-        cite="3E 范式：S. Hu, X. Zhao, K. Huang, SOTVerse, International Journal of Computer Vision, 2024.",
-        e_title="3E：测验的三个位置，以及在每个位置上信得过 AI 需要什么"),
+    ),
 }
 
 
@@ -124,28 +109,6 @@ def banner():
         p.append(text(x + 8, 330, q, 12.8, INK2))
         p.append(text(x + 8, 351, L["in_talk"] + talk, 13, MUTE))
     return svg(960, 366, L["banner_title"], p)
-
-
-EENV, EEXEC, EEVAL = "#5E6E8F", "#1F4FA3", "#0E8C7E"
-
-
-def three_e():
-    """3E: the three places in a test (executor, evaluation, environment) and, at each, what trusting AI needs and its check."""
-    L = T[LANG]
-    p = [kicker(24, 34, L["k1"])]
-    for i, ((name, sub), col) in enumerate(zip(L["parts"], (EEXEC, EEVAL, EENV))):   # V11: executor, evaluation, environment, as on P07
-        x = 24 + i * 316
-        p += [box(x, 52, 296, 70, "#FFFFFF", col), f'<rect x="{x}" y="52" width="9" height="70" rx="4" fill="{col}"/>',
-              badge(x + 268, 74, i + 1, 11), text(x + 24, 82, name, 18, INK, 700), text(x + 24, 104, sub, 13, INK2)]
-    p += [f'<line x1="24" y1="146" x2="952" y2="146" stroke="{RULE}"/>', kicker(24, 176, L["k2"])]
-    for i, n in enumerate((1, 2, 3)):
-        x = 24 + i * 316
-        name, l1, l2 = L["places"][n]
-        p += [box(x, 192, 296, 104, WASH[n], r=12), plate(f"plate{n}", x + 8, 200, 120),
-              badge(x + 148, 214, n, 12), text(x + 168, 219, name, 16, INK, 700),
-              text(x + 140, 248, l1, 13.5, INK, 600), text(x + 140, 268, l2, 12.5, INK2)]
-    p.append(text(24, 322, L["cite"], 12.5, MUTE))
-    return svg(960, 336, L["e_title"], p)
 
 
 R = {   # the route of the talk, V8 (2026-10-25): four questions; the arrow turns from psychology-for-AI to AI-for-psychology
@@ -190,7 +153,7 @@ def route():
 def main():
     global LANG
     for LANG, suffix in (("en", ".svg"), ("zh", ".zh.svg")):
-        for name, make in (("banner", banner), ("3e", three_e), ("route", route)):
+        for name, make in (("banner", banner), ("route", route)):
             path = os.path.join(HERE, name + suffix)
             with open(path, "w", encoding="utf-8") as fh:
                 fh.write(make())

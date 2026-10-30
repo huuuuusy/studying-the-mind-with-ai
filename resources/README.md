@@ -8,8 +8,6 @@ This is the reading list of this repository, the companion to the talk *Studying
 - **A group, people as the answer:** whose standard does it follow? Compare with a group, not one person.
 - **A society, people we make:** is it like us enough to study us? Compare it with real people.
 
-The frame underneath, the three places in a test, is on the [start page](../docs/start-here.md#behind-the-four-questions-three-places-in-a-test).
-
 This page is a curated start; the full field-wide list (about 300 entries, by part of the talk and subtopic, with datasets and simulation frameworks) is [literature.md](literature.md). The list is growing. Entries are links only, and every link was checked before it was added (last check 2026-10-15; additions checked 2026-10-20). For a version organised by area of psychology, see [students.md](students.md); for working with AI researchers, see [working-together.md](working-together.md).
 
 ## Start here: using large models in your research

@@ -108,17 +108,6 @@ it; and every test of it is also a test of us.**
 
 *Slide 52 of the talk: the same experiment, two kinds of participants.*
 
-## Behind the four questions: three places in a test
-
-For readers who want the frame underneath. A test of a model has the same parts as a psychology
-experiment, the 3E paradigm from the speaker's PhD work: an **executor** (the participant), an
-**evaluation** (the measure) and an **environment** (the stimuli and conditions). People used to
-hold all three places. The first three parts of the talk follow AI into each of them: it takes the
-test beside us, it starts to judge, and it plays the people around us. Psychology's older word for
-the trust each place needs is validity.
-
-![3E: the three places in a test, and what trusting AI needs in each](figures/3e.svg)
-
 ## How much there is to read
 
 About 300 checked references in all, in four layers. Start with the first and go as far as you like.
