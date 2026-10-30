@@ -65,6 +65,8 @@
 
 这个仓库属于作者[研究主线](https://hushiyu1995.com/#research-framework)中的 *Humans and AI*（人与 AI）这条线：人们意见不一时，或者 AI 代替人、和人一起工作时，什么才算对。
 
+作者是 AI 研究者，不是心理学家，这里对心理学的理解可能不完整，也可能和心理学界的看法有出入。非常欢迎指正和交流讨论：可以[提一个 issue](https://github.com/huuuuusy/studying-the-mind-with-ai/issues)，或者写信到 shiyu.hu@ntu.edu.sg。
+
 ## 如何引用
 
 使用 GitHub 上的 **Cite this repository**，或者 [`CITATION.cff`](CITATION.cff) 文件：Hu, S. (2026). *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation. A reading companion to the talk*. Zenodo. [doi:10.5281/zenodo.23684070](https://doi.org/10.5281/zenodo.23684070)凡是从原始研究中取用的内容，请引用原始论文。

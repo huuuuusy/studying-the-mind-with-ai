@@ -83,6 +83,10 @@ This repository belongs to the *Humans and AI* line of the author's
 [research](https://hushiyu1995.com/#research-framework), which asks what counts as being right
 when people disagree, or when AI takes people's place or works with them.
 
+The author is an AI researcher, not a psychologist, so the reading of psychology here may be
+incomplete, or differ from how psychologists would put it. Corrections and discussion are very
+welcome: [open an issue](https://github.com/huuuuusy/studying-the-mind-with-ai/issues) or write to shiyu.hu@ntu.edu.sg.
+
 ## How to cite
 
 Use **Cite this repository** on GitHub, or the [`CITATION.cff`](CITATION.cff) file: Hu, S. (2026). *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation. A reading companion to the talk*. Zenodo. [doi:10.5281/zenodo.23684070](https://doi.org/10.5281/zenodo.23684070) Please cite
