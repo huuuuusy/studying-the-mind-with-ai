@@ -60,9 +60,9 @@ analysis, Parts 1–2); later, AI helps us study people (role simulation, Parts 
 | 3 · A society: people we make | Is it like us enough to study us? | To rehearse a study, not to replace its people. To check a simulation, **compare it with real people**. | [Part 3](part3-people-we-make.md) |
 | 4 · AI in your own research | How can you use it? | **Check it first, then use it**: wherever a model enters your study, check it; most of the checks you already know. | [Part 4](part4-ai-in-your-research.md) |
 
-<img src="figures/talk/slides/p51.png" width="88%" alt="Slide 51: the four questions and the talk's answer to each">
+<img src="figures/talk/slides/p50.png" width="88%" alt="Slide 50: the four questions and the talk's answer to each">
 
-*Slide 51 of the talk: the whole talk on one page.*
+*Slide 50 of the talk: the whole talk on one page.*
 
 The checks in bold are ones psychology already has. Each test also taught us about people: how
 we see, how we understand events, and how we behave together. A question about AI keeps turning
@@ -104,9 +104,9 @@ reached it, 23 of them gave a small nod without knowing it (Pfungst, 1911,
 finding about people. The closing line: **we know it not by defining intelligence, but by testing
 it; and every test of it is also a test of us.**
 
-<img src="figures/talk/slides/p53.png" width="88%" alt="Slide 53: Pfungst plays Hans; 23 of 25 people cued him; each test also taught us about people">
+<img src="figures/talk/slides/p52.png" width="88%" alt="Slide 52: Pfungst plays Hans; 23 of 25 people cued him; each test also taught us about people">
 
-*Slide 53 of the talk: the same experiment, two kinds of participants.*
+*Slide 52 of the talk: the same experiment, two kinds of participants.*
 
 ## Behind the four questions: three places in a test
 
