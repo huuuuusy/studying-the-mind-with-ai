@@ -147,7 +147,7 @@ The speaker's group, in their public versions (\* equal contribution). Read them
 
 ## Work on it together
 
-[Way 1, *design a controlled comparison together*](../resources/working-together.md#1-design-a-controlled-comparison-together): what psychology and AI research each bring, what to agree on, and a published study to learn from.
+[Where the two fields meet, question 1](../resources/working-together.md#1-right-answer-right-reason): what each side brings, what to read first, and published studies to learn from.
 
 ---
 

@@ -153,7 +153,7 @@ The speaker's group, in their public versions (\* equal contribution). Read them
 
 ## Work on it together
 
-[Way 3, *test a simulation together*](../resources/working-together.md#3-test-a-simulation-together): what each side brings, what to agree on, and two published studies to learn from.
+[Where the two fields meet, question 3](../resources/working-together.md#3-is-it-like-us-enough-to-study-us): what each side brings, what to read first, and published studies to learn from.
 
 ---
 

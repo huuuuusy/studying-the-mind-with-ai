@@ -138,7 +138,7 @@ Part 4 draws on the studies listed in [Part 1](part1-people-next-to-machine.md#t
 
 ## Work on it together
 
-[Way 4, *bring a model into your own study*](../resources/working-together.md#4-bring-a-model-into-your-own-study). Whichever way you work, record the model, version, date, full prompt, settings and number of runs.
+[Where the two fields meet, question 4](../resources/working-together.md#4-how-can-you-use-it): what each side brings, what to read first, and published studies to learn from. Whatever the study, record the model, version, date, full prompt, settings and number of runs.
 
 ---
 

@@ -148,7 +148,7 @@ The speaker's group, in their public versions (\* equal contribution). Read them
 
 ## Work on it together
 
-[Way 2, *build a human reference together*](../resources/working-together.md#2-build-a-human-reference-together): what each side brings, what to agree on, and two published studies to learn from.
+[Where the two fields meet, question 2](../resources/working-together.md#2-whose-standard-does-it-follow): what each side brings, what to read first, and published studies to learn from.
 
 ---
 
