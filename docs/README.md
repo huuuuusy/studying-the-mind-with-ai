@@ -6,7 +6,7 @@
 | [part1-people-next-to-machine.md](part1-people-next-to-machine.md) | Part 1 of the talk, one person: people next to the machine |
 | [part2-people-as-the-answer.md](part2-people-as-the-answer.md) | Part 2, a group: people as the answer |
 | [part3-people-we-make.md](part3-people-we-make.md) | Part 3, a society: people we make |
-| [part4-ai-in-your-research.md](part4-ai-in-your-research.md) | Part 4: simulated participants and AI coders in your own research |
+| [part4-ai-in-your-research.md](part4-ai-in-your-research.md) | Part 4: a model that reads your data or takes a person's place in your own research |
 | [glossary.md](glossary.md) | the terms used in the talk and the guides |
 | [handout/handout.pdf](handout/handout.pdf) | the essentials on paper; rebuild with `python3 docs/handout/make_handout.py` |
 | [handout/handout.zh.pdf](handout/handout.zh.pdf) | the same in Chinese; rebuild with `python3 docs/handout/make_handout.py zh` |

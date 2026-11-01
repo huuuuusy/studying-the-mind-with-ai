@@ -5,7 +5,7 @@
 **研究。** Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd workers for text-annotation tasks. *Proceedings of the National Academy of Sciences, 120*(30), e2305016120. [doi:10.1073/pnas.2305016120](https://doi.org/10.1073/pnas.2305016120)
 **一起读。** Reiss, M. V. (2023). Testing the reliability of ChatGPT for text annotation and classification: A cautionary remark. [arXiv:2304.11085](https://arxiv.org/abs/2304.11085)
 
-**在讲座里。** 第 4 部分，[在你自己的研究里用 AI](../../docs/part4-ai-in-your-research.zh.md)，“AI 能帮忙做分析吗？”这一页：如果把模型当作一名新的编码者，它可以帮你编码数据。Reiss 在下一页被引用，用来说明三个老陷阱中的第二个：措辞会改变答案。
+**在讲座里。** 第 4 部分，[在你自己的研究里用 AI](../../docs/part4-ai-in-your-research.zh.md)，备用页“模型能当你的编码者吗？”：如果把模型当作一名新的编码者，它可以帮你编码数据。Reiss 在“三个老陷阱”这一页被引用，用来说明第二个陷阱：措辞会改变答案。
 
 **问题。** 聊天模型能否代替人类编码者给文本打标签？它这样做时，可靠性如何？
 

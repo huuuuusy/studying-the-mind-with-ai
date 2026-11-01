@@ -4,7 +4,7 @@
 
 **Study.** Jones, C. R., & Bergen, B. K. (2026). Large language models pass a standard three-party Turing test. *Proceedings of the National Academy of Sciences, 123*(21), e2524472123. [doi:10.1073/pnas.2524472123](https://doi.org/10.1073/pnas.2524472123) · [arXiv](https://arxiv.org/abs/2503.23674) (earlier arXiv version, 2025: *Large language models pass the Turing test*)
 
-**In the talk.** The opening, [Start here](../../docs/start-here.md): one real game from this test, in which the judge took the AI for the human. The talk's conclusion: being picked as human tells us about the judges' cues, not yet about the machine's mind. Testing the machine also tested the judges.
+**In the talk.** The opening, [Start here](../../docs/start-here.md): one real game from this test, in which the judge took the AI for the human. The talk's conclusion: it fooled the judges, and that shows how we judge, not that it can think. Testing the machine also tested the judges.
 
 **Question.** In Turing's original three-party design, can people tell a machine from a human when they talk to both at once?
 

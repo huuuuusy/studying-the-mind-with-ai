@@ -4,7 +4,7 @@
 
 **Study.** Weng, Z., Chen, G., & Wang, W. (2025). Do as we do, not as you think: The conformity of large language models. *International Conference on Learning Representations (ICLR 2025)*, oral. [Proceedings](https://proceedings.iclr.cc/paper_files/paper/2025/hash/1da9ca7e9cef4b1af63913f05d1630a4-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2501.13381)
 
-**In the talk.** A backup page for questions, with [Part 3, A society: people we make](../../docs/part3-people-we-make.md): an Asch-style test for AI agents, and Asch's own controls.
+**In the talk.** Part 4, [AI in your own research](../../docs/part4-ai-in-your-research.md), the page "When a model takes a person's place": a model as the participant, taking a conformity test. Backup pages for questions give the Asch-style test for AI agents, and Asch's own controls.
 
 **Question.** When language-model agents work together, do they conform to a majority the way people do in Asch's experiments, and what makes them conform more or less?
 

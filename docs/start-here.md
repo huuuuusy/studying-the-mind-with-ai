@@ -20,12 +20,12 @@ A new name does not settle what intelligence is. Even the best-known definition 
 superintelligence, "an intellect that is much smarter than the best human brains in practically
 every field" (Bostrom, 1998, [text](https://nickbostrom.com/superintelligence)), is measured
 against people. Turing had stepped around the definition in 1950: he replaced "Can machines
-think?" with a test against people, the imitation game ([doi](https://doi.org/10.1093/mind/lix.236.433)).
+think?" with a test against people, the Turing test ([doi](https://doi.org/10.1093/mind/lix.236.433)).
 The talk opened with one real game from a recent run of that test: the judge took the AI for
 the human ([card](../resources/examples/jones2026-turing-test.md)). Across all games, GPT-4.5 told
 to act like a shy young person was picked as the human 73% of the time; without that persona,
-36%. Being picked as human tells us about the judges' cues, not yet about the machine's mind. The
-test tells us about AI, and also about our own judgements.
+36%. It fooled the judges, and that shows how we judge, not that it can think. The test tells us
+about AI, and also about our own judgements.
 
 Psychology is in the same position: it cannot open a mind, so it reads the mind from behaviour,
 against people. The older field and the younger one are natural partners, and AI has borrowed
@@ -58,11 +58,11 @@ analysis, Parts 1–2); later, AI helps us study people (role simulation, Parts 
 | 1 · One person: people next to the machine | Right answer, right reason? | Not yet: close scores, different mistakes. To check the reason, **compare the mistakes, not only the scores**. | [Part 1](part1-people-next-to-machine.md) |
 | 2 · A group: people as the answer | Whose standard does it follow? | A group of people, not one person. To check the standard, **compare with a group, not one person**. | [Part 2](part2-people-as-the-answer.md) |
 | 3 · A society: people we make | Is it like us enough to study us? | To rehearse a study, not to replace its people. To check a simulation, **compare it with real people**. | [Part 3](part3-people-we-make.md) |
-| 4 · AI in your own research | How can you use it? | **Check it first, then use it**: wherever a model enters your study, check it; most of the checks you already know. | [Part 4](part4-ai-in-your-research.md) |
+| 4 · AI in your own research | How can you use it? | **Check it first, then use it**: when a model reads your data, test it on new people and look for the shortcut; when it takes a person's place, compare it with real people; either way, pin the version and date, try several wordings and make new questions. | [Part 4](part4-ai-in-your-research.md) |
 
-<img src="figures/talk/slides/p50.png" width="88%" alt="Slide 50: the four questions and the talk's answer to each">
+<img src="figures/talk/slides/p46.png" width="88%" alt="Slide 46: the four questions and the talk's answer to each">
 
-*Slide 50 of the talk: the whole talk on one page.*
+*Slide 46 of the talk: the whole talk on one page.*
 
 The checks in bold are ones psychology already has. Each test also taught us about people: how
 we see, how we understand events, and how we behave together. A question about AI keeps turning
@@ -81,32 +81,49 @@ Each part's guide has the same sections:
 
 ## Why now
 
-Two trends in the talk's closing section explain why the questions above matter more each year.
+The talk closes with two things the speaker sees, and how the speaker would do research now
+("Why psychology and the humanities matter more now").
 
-- **Findings about one model age fast.** On software tasks, the tasks that the best AI models can
-  finish on their own, succeeding half the time, have doubled in length about every seven months
-  since 2019 (Kwa et al., METR, [arXiv:2503.14499](https://arxiv.org/abs/2503.14499)). What lasts is a good question
-  and a good measure.
-- **Judging has become the scarce part.** At ICLR 2026, one of the main AI conferences, 18,054
-  reviewers wrote 76,139 reviews, and the programme chairs wrote that the scale "made it impossible
-  to rely on human judgement alone to consistently flag and discover problematic reviews"
-  ([ICLR Blog](https://blog.iclr.cc/2026/03/31/a-retrospective-on-the-iclr-2026-review-process/)).
+- **The race, and the checks.** Models race ahead, and every claim still needs checking. In July 2025
+  a model reached gold level at the International Mathematical Olympiad, and the Olympiad's markers
+  confirmed it ([DeepMind](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)). In October 2025 a claim that a model had solved 10 open problems
+  fell apart: the answers were already published ([The Decoder](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/)). In May 2026 a model's work
+  brought down an 80-year-old conjecture, and nine mathematicians checked it (Alon et al.,
+  [arXiv:2605.20695](https://arxiv.org/abs/2605.20695)). By autumn 2026, four labs had released four new models in six weeks,
+  while METR had already reported that the strongest agents had reached the ceiling of its outside
+  test ([METR, May 2026](https://metr.org/blog/2026-05-19-frontier-risk-report/)).
+- **Making is cheap; judging is scarce.** ICLR, one of the main AI conferences, had 490 submissions
+  in 2017 and 19,525 in 2026, and about 62,000 have been submitted for 2027, not yet reviewed. At
+  ICLR 2026, 18,054 reviewers wrote 76,139 reviews, and the programme chairs wrote that the scale
+  "made it impossible to rely on human judgement alone to consistently flag and discover problematic
+  reviews" ([ICLR Blog](https://blog.iclr.cc/2026/03/31/a-retrospective-on-the-iclr-2026-review-process/)).
 
-The talk's view: when making things gets cheap, judging becomes the real work, and judging has
-always been the craft of psychology and the humanities.
+How the speaker would do research now:
+
+- **Outlast the model.** Ask: would it still matter if models were ten times better?
+- **Let AI do; you judge.** Hand it the doing, keep the judging, and write the first draft yourself.
+- **Find your own crossing.** Start from a question your field asks best, and bring AI to it.
+
+The talk's view: when making things gets cheap, judging is the real work, and that has always been
+the job of psychology and the humanities.
 
 ## How the talk ended
 
-The talk ended where it began, with Clever Hans. After he had solved the puzzle, Pfungst played
-Hans himself: he asked 25 people each to think of a number and tapped like Hans, and when he
-reached it, 23 of them gave a small nod without knowing it (Pfungst, 1911,
-[Project Gutenberg](https://www.gutenberg.org/ebooks/33936)). An experiment about a horse became a
-finding about people. The closing line: **we know it not by defining intelligence, but by testing
-it; and every test of it is also a test of us.**
+The talk ended by going back to the question on its cover: how would we know a machine really has
+an ability? Not by giving it a new name, but by checking it against people: compare the mistakes,
+compare with a group, compare with real people.
 
-<img src="figures/talk/slides/p52.png" width="88%" alt="Slide 52: Pfungst plays Hans; 23 of 25 people cued him; each test also taught us about people">
+Then it returned to Clever Hans. After he had solved the puzzle, Pfungst played Hans himself: he
+asked 25 people each to think of a number and tapped like Hans, and when he reached it, 23 of them
+gave a small nod without knowing it (Pfungst, 1911,
+[Project Gutenberg](https://www.gutenberg.org/ebooks/33936)). A test of a horse became a finding
+about people, and the talk's tests do the same: they teach us how people see, understand events and
+act together. The closing line: **we can't know it by defining intelligence; we know it by testing
+it, and every test also tests us.**
 
-*Slide 52 of the talk: the same experiment, two kinds of participants.*
+<img src="figures/talk/slides/p48.png" width="88%" alt="Slide 48: the question on the cover, answered by checking against people; Pfungst plays Hans, and 23 of 25 people give the cue">
+
+*Slide 48 of the talk: the same experiment, two kinds of participants.*
 
 ## How much there is to read
 

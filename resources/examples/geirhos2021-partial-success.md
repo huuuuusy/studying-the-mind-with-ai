@@ -4,7 +4,7 @@
 
 **Study.** Geirhos, R., Narayanappa, K., Mitzkus, B., Thieringer, T., Bethge, M., Wichmann, F. A., & Brendel, W. (2021). Partial success in closing the gap between human and machine vision. *Advances in Neural Information Processing Systems (NeurIPS) 34*, oral. [Proceedings](https://proceedings.neurips.cc/paper/2021/hash/c8877cff22082a16395a57e97232bb6f-Abstract.html) · [arXiv](https://arxiv.org/abs/2106.07411)
 
-**In the talk.** Part 1, [One person: people next to the machine](../../docs/part1-people-next-to-machine.md): later, the best models matched people's accuracy, but not their errors.
+**In the talk.** Not shown in the talk; read it with [Part 1, One person: people next to the machine](../../docs/part1-people-next-to-machine.md): later, the best models matched people's accuracy, but not their errors.
 
 **Question.** A few years after the first network surpassed human accuracy on ImageNet, are models getting closer to human vision on harder test cases?
 

@@ -5,7 +5,7 @@
 **Study.** Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd workers for text-annotation tasks. *Proceedings of the National Academy of Sciences, 120*(30), e2305016120. [doi:10.1073/pnas.2305016120](https://doi.org/10.1073/pnas.2305016120)
 **Read with.** Reiss, M. V. (2023). Testing the reliability of ChatGPT for text annotation and classification: A cautionary remark. [arXiv:2304.11085](https://arxiv.org/abs/2304.11085)
 
-**In the talk.** Part 4, [AI in your own research](../../docs/part4-ai-in-your-research.md), the page "Can AI help with analysis?": a model can help code your data if you treat it as a new coder. Reiss is cited on the next page, for the second of three old traps: the wording moves the answer.
+**In the talk.** Part 4, [AI in your own research](../../docs/part4-ai-in-your-research.md), the backup page "Can a model be one of your coders?": a model can help code your data if you treat it as a new coder. Reiss is cited on the page "Three old traps, in a new form", for the second trap: the wording moves the answer.
 
 **Question.** Can a chat model replace human coders for labelling text, and how reliable is it when it does?
 

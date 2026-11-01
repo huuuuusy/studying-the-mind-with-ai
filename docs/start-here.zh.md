@@ -10,7 +10,7 @@
 
 **它看起来很有能力，我们怎么知道它真的具备这种能力？**
 
-2026 年 9 月，美国政府要求各机构不再说“人工智能”（artificial intelligence），改说“超级智能”（super intelligence），理由是这项技术“不只是在模仿或自动化人的智能”（[fact sheet](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/)；[行政令](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/)）。改了名字，智能是什么依然没有说清。就连最有名的超级智能定义，“在几乎每个领域都远比最聪明的人脑更聪明的智能”（Bostrom，1998，[原文](https://nickbostrom.com/superintelligence)），也是拿人来衡量的。图灵在 1950 年就绕开了定义：他把“机器能思考吗”换成了一个拿人来比的测试，即模仿游戏（[doi](https://doi.org/10.1093/mind/lix.236.433)）。讲座开场放的就是最近一次这种测试里真实的一局：评判者把 AI 当成了人（[卡片](../resources/examples/jones2026-turing-test.zh.md)）。在所有对局里，被要求扮演一个害羞年轻人的 GPT-4.5 有 73% 的时候被选成真人；没有这个人设，只有 36%。被选成人，反映的是评判者用了哪些线索，还不能说明机器有怎样的心智。这个测试让我们了解 AI，也让我们了解自己的判断。
+2026 年 9 月，美国政府要求各机构不再说“人工智能”（artificial intelligence），改说“超级智能”（super intelligence），理由是这项技术“不只是在模仿或自动化人的智能”（[fact sheet](https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/)；[行政令](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/)）。改了名字，智能是什么依然没有说清。就连最有名的超级智能定义，“在几乎每个领域都远比最聪明的人脑更聪明的智能”（Bostrom，1998，[原文](https://nickbostrom.com/superintelligence)），也是拿人来衡量的。图灵在 1950 年就绕开了定义：他把“机器能思考吗”换成了一个拿人来比的测试，即图灵测试（[doi](https://doi.org/10.1093/mind/lix.236.433)）。讲座开场放的就是最近一次这种测试里真实的一局：评判者把 AI 当成了人（[卡片](../resources/examples/jones2026-turing-test.zh.md)）。在所有对局里，被要求扮演一个害羞年轻人的 GPT-4.5 有 73% 的时候被选成真人；没有这个人设，只有 36%。它骗过了评判者，这说明的是我们怎样判断，不是它会思考。这个测试让我们了解 AI，也让我们了解自己的判断。
 
 心理学的处境一样：心智打不开，只能从行为去读，拿人来比。心理学是更老的学科，AI 是更年轻的学科，两者是天然的搭档，而 AI 一直在向心理学借东西：
 
@@ -37,11 +37,11 @@
 | 1 · 一个人：机器旁边的人 | 答对了，理由也对吗？ | 还没有：分数相近，错误不同。要检验理由，就**比错误，不只比分数**。 | [第 1 部分](part1-people-next-to-machine.zh.md) |
 | 2 · 一群人：人作为答案 | 它遵循谁的标准？ | 一群人，而不是一个人。要检验标准，就**拿一群人比，不拿一个人比**。 | [第 2 部分](part2-people-as-the-answer.zh.md) |
 | 3 · 一个社会：我们造出来的人 | 它像我们，像到能研究我们吗？ | 用来预演一项研究，不能取代研究里的人。要检验模拟，就**拿真实的人比**。 | [第 3 部分](part3-people-we-make.zh.md) |
-| 4 · 在你自己的研究里用 AI | 你可以怎样用它？ | **先检验，再使用**：模型从哪个环节进入你的研究，就在哪里检验它；这些检验大多你早已熟悉。 | [第 4 部分](part4-ai-in-your-research.zh.md) |
+| 4 · 在你自己的研究里用 AI | 你可以怎样用它？ | **先检验，再使用**：模型读你的数据时，要在新的人身上测试，并找出捷径；模型坐到一个人的位置上时，要拿它和真实的人比；不管怎么用，都要固定版本和日期、多试几种措辞、出新的题目。 | [第 4 部分](part4-ai-in-your-research.zh.md) |
 
-<img src="figures/talk/slides/p50.png" width="88%" alt="第 50 页：四个问题，以及讲座对每个问题的回答">
+<img src="figures/talk/slides/p46.png" width="88%" alt="第 46 页：四个问题，以及讲座对每个问题的回答">
 
-*讲座第 50 页：一页看完整场讲座。*
+*讲座第 46 页：一页看完整场讲座。*
 
 加粗的这几个检验，都是心理学本来就有的。每一次检验也让我们了解人：我们怎样看、怎样理解事件、怎样在一起行动。一个关于 AI 的问题，一次次变成了关于我们自己的发现。
 
@@ -58,20 +58,28 @@
 
 ## 为什么是现在
 
-讲座收尾时讲了两个趋势，说明上面这些问题为什么一年比一年重要。
+讲座收尾时讲了讲者看到的两件事，以及讲者现在会怎样做研究（“为什么心理学和人文学科现在更重要”）。
 
-- **关于某一个模型的发现，过时得很快。** 在软件任务上，最好的 AI 模型能独立完成、成功率一半的任务，长度自 2019 年以来大约每七个月翻一番（Kwa 等，METR，[arXiv:2503.14499](https://arxiv.org/abs/2503.14499)）。能留下来的，是好的问题和好的测量。
-- **评判成了稀缺的那一环。** AI 主要会议之一 ICLR 2026 上，18,054 位审稿人写了 76,139 份审稿意见。程序主席写道，这样的规模“使得只靠人的判断来一致地标记和发现有问题的审稿意见成为不可能”（[ICLR Blog](https://blog.iclr.cc/2026/03/31/a-retrospective-on-the-iclr-2026-review-process/)）。
+- **竞赛，和核查。** 模型跑得很快，每个说法都还需要核查。2025 年 7 月，一个模型在国际数学奥林匹克上达到金牌水平，奥赛阅卷人作了确认（[DeepMind](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)）。2025 年 10 月，有人宣称模型解决了 10 个公开问题，结果答案早已发表（[The Decoder](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/)）。2026 年 5 月，模型的工作推翻了一个八十年的猜想，九位数学家作了核查（Alon 等，[arXiv:2605.20695](https://arxiv.org/abs/2605.20695)）。到 2026 年秋天，四家实验室在六周内发布了四个新模型，而 METR 此前已经报告，最强的智能体到了它的外部测试的上限（[METR，2026 年 5 月](https://metr.org/blog/2026-05-19-frontier-risk-report/)）。
+- **造东西便宜了，判断稀缺了。** AI 主要会议之一 ICLR 的投稿，2017 年是 490 篇，2026 年是 19,525 篇，2027 年已有大约 62,000 篇投稿，还没有审稿。ICLR 2026 上，18,054 位审稿人写了 76,139 份审稿意见。程序主席写道，这样的规模“使得只靠人的判断来一致地标记和发现有问题的审稿意见成为不可能”（[ICLR Blog](https://blog.iclr.cc/2026/03/31/a-retrospective-on-the-iclr-2026-review-process/)）。
 
-讲座的看法是：当造东西变得便宜，判断就成了真正的工作；而判断，一直是心理学和人文学科的手艺。
+讲者现在会这样做研究：
+
+- **比模型活得久。** 问问自己：如果模型再强十倍，这件事还重要吗？
+- **让 AI 去做，你来判断。** 把“做”交给它，把“判断”留给自己；初稿自己写。
+- **找到你自己的交叉点。** 从你的领域最擅长提出的问题出发，再把 AI 带进来。
+
+讲座的看法是：当造东西变得便宜，判断才是真正的工作，而这一直是心理学和人文学科的本职。
 
 ## 讲座怎样结束
 
-讲座在开头的地方结束：聪明的汉斯。解开谜题之后，Pfungst 自己扮演汉斯：他请 25 个人各想一个数字，然后像汉斯那样敲；敲到那个数字时，其中 23 个人的头会轻轻一点，而他们自己并不知道（Pfungst，1911，[Project Gutenberg](https://www.gutenberg.org/ebooks/33936)）。一个关于马的实验，变成了一个关于人的发现。讲座的最后一句：**我们不是通过给智能下定义来认识它，而是通过检验；而每次检验机器，也是在检验我们自己。**
+讲座最后回到封面上的问题：我们怎么知道一台机器真的具备某种能力？不是靠给它换个名字，而是拿人来检验它：比错误，拿一群人比，拿真实的人比。
 
-<img src="figures/talk/slides/p52.png" width="88%" alt="第 52 页：Pfungst 扮演汉斯；25 人里有 23 人给了他提示；每次检验也让我们了解人">
+然后回到聪明的汉斯。解开谜题之后，Pfungst 自己扮演汉斯：他请 25 个人各想一个数字，然后像汉斯那样敲；敲到那个数字时，其中 23 个人的头会轻轻一点，而他们自己并不知道（Pfungst，1911，[Project Gutenberg](https://www.gutenberg.org/ebooks/33936)）。一个对马的测试，变成了一个关于人的发现。讲座里的测试也一样：它们让我们更了解人怎样看、怎样理解事件、怎样一起行动。讲座的最后一句：**我们不能靠定义智能来认识它，要靠检验，而每一次检验也在检验我们自己。**
 
-*讲座第 52 页：同一个实验，两种被试。*
+<img src="figures/talk/slides/p48.png" width="88%" alt="第 48 页：回答封面上的问题，要拿人来检验；Pfungst 扮演汉斯，25 人里有 23 人给了他提示">
+
+*讲座第 48 页：同一个实验，两种被试。*
 
 ## 一共有多少可读
 

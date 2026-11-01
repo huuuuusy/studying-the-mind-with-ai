@@ -4,7 +4,7 @@
 
 **研究。** Weng, Z., Chen, G., & Wang, W. (2025). Do as we do, not as you think: The conformity of large language models. *International Conference on Learning Representations (ICLR 2025)*, oral. [Proceedings](https://proceedings.iclr.cc/paper_files/paper/2025/hash/1da9ca7e9cef4b1af63913f05d1630a4-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2501.13381)
 
-**在讲座里。** 问答用的备用页，配合[第 3 部分，一个社会：我们造出来的人](../../docs/part3-people-we-make.zh.md)：针对 AI 智能体的 Asch 式检验，以及 Asch 自己的控制条件。
+**在讲座里。** 第 4 部分，[在你自己的研究里用 AI](../../docs/part4-ai-in-your-research.zh.md)，“当模型坐到一个人的位置上”这一页：模型当被试，做一个从众测试。问答用的备用页给出了针对 AI 智能体的 Asch 式检验，以及 Asch 自己的控制条件。
 
 **问题。** 语言模型智能体协同工作时，会不会像 Asch 实验中的人那样向多数从众？是什么让它们更多或更少地从众？
 

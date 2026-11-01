@@ -4,7 +4,7 @@
 
 **Study.** Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., et al. (2022). Training language models to follow instructions with human feedback. *Advances in Neural Information Processing Systems (NeurIPS) 35*. [doi:10.52202/068431-2011](https://doi.org/10.52202/068431-2011) · [arXiv](https://arxiv.org/abs/2203.02155)
 
-**In the talk.** Part 2, [A group: people as the answer](../../docs/part2-people-as-the-answer.md): ChatGPT's training and its rankings rest on people's paired comparisons.
+**In the talk.** Part 2, [A group: people as the answer](../../docs/part2-people-as-the-answer.md), the page "The night before ChatGPT: RLHF": ChatGPT's training rests on people's paired comparisons. A backup page shows that chatbot rankings do too.
 
 **Question.** Can a language model be made to follow what users intend by training it on human judgements, rather than by making it bigger?
 

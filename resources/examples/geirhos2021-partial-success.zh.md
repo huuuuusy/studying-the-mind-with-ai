@@ -4,7 +4,7 @@
 
 **研究。** Geirhos, R., Narayanappa, K., Mitzkus, B., Thieringer, T., Bethge, M., Wichmann, F. A., & Brendel, W. (2021). Partial success in closing the gap between human and machine vision. *Advances in Neural Information Processing Systems (NeurIPS) 34*, oral. [Proceedings](https://proceedings.neurips.cc/paper/2021/hash/c8877cff22082a16395a57e97232bb6f-Abstract.html) · [arXiv](https://arxiv.org/abs/2106.07411)
 
-**在讲座里。** 第 1 部分，[一个人：机器旁边的人](../../docs/part1-people-next-to-machine.zh.md)：后来，最好的模型在准确率上赶上了人，错误却仍然和人不同。
+**在讲座里。** 讲座里没有展示；配合[第 1 部分，一个人：机器旁边的人](../../docs/part1-people-next-to-machine.zh.md)来读：后来，最好的模型在准确率上赶上了人，错误却仍然和人不同。
 
 **问题。** 第一个网络在 ImageNet 上超过人类准确率几年之后，模型在更难的测试样例上是否更接近人类视觉了？
 

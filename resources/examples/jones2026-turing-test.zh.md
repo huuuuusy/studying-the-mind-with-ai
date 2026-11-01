@@ -4,7 +4,7 @@
 
 **研究。** Jones, C. R., & Bergen, B. K. (2026). Large language models pass a standard three-party Turing test. *Proceedings of the National Academy of Sciences, 123*(21), e2524472123. [doi:10.1073/pnas.2524472123](https://doi.org/10.1073/pnas.2524472123) · [arXiv](https://arxiv.org/abs/2503.23674) （较早的 arXiv 版本，2025：*Large language models pass the Turing test*）
 
-**在讲座里。** 开场，[从这里开始](../../docs/start-here.zh.md)：放了这项测试里真实的一局，评判者把 AI 当成了人。讲座的结论是：被选成人，反映的是评判者用了哪些线索，还不能说明机器有怎样的心智。测机器的同时，也测了评判者。
+**在讲座里。** 开场，[从这里开始](../../docs/start-here.zh.md)：放了这项测试里真实的一局，评判者把 AI 当成了人。讲座的结论是：它骗过了评判者，这说明的是我们怎样判断，不是它会思考。测机器的同时，也测了评判者。
 
 **问题。** 在图灵最初的三方设计中，人们同时与机器和人类交谈时，能否把二者分辨开来？
 
