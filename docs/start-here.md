@@ -58,11 +58,11 @@ analysis, Parts 1–2); later, AI helps us study people (role simulation, Parts 
 | 1 · One person: people next to the machine | Right answer, right reason? | Not yet: close scores, different mistakes. To check the reason, **compare the mistakes, not only the scores**. | [Part 1](part1-people-next-to-machine.md) |
 | 2 · A group: people as the answer | Whose standard does it follow? | A group of people, not one person. To check the standard, **compare with a group, not one person**. | [Part 2](part2-people-as-the-answer.md) |
 | 3 · A society: people we make | Is it like us enough to study us? | To rehearse a study, not to replace its people. To check a simulation, **compare it with real people**. | [Part 3](part3-people-we-make.md) |
-| 4 · AI in your own research | How can you use it? | **Check it first, then use it**: when a model reads your data, test it on new people and look for the shortcut; when it takes a person's place, compare it with real people; either way, pin the version and date, try several wordings and make new questions. | [Part 4](part4-ai-in-your-research.md) |
+| 4 · AI in your own research | How can you use it? | **Check it first, then use it**: when a model reads your data, test it on new people, look for the shortcut and keep the disagreement; when it takes a person's place, get the spread right, not only the average, and test its memory. | [Part 4](part4-ai-in-your-research.md) |
 
-<img src="figures/talk/slides/p46.png" width="88%" alt="Slide 46: the four questions and the talk's answer to each">
+<img src="figures/talk/slides/p48.png" width="88%" alt="Slide 48: the four questions and the talk's answer to each">
 
-*Slide 46 of the talk: the whole talk on one page.*
+*Slide 48 of the talk: the whole talk on one page.*
 
 The checks in bold are ones psychology already has. Each test also taught us about people: how
 we see, how we understand events, and how we behave together. A question about AI keeps turning
@@ -84,14 +84,12 @@ Each part's guide has the same sections:
 The talk closes with two things the speaker sees, and how the speaker would do research now
 ("Why psychology and the humanities matter more now").
 
-- **The race, and the checks.** Models race ahead, and every claim still needs checking. In July 2025
-  a model reached gold level at the International Mathematical Olympiad, and the Olympiad's markers
-  confirmed it ([DeepMind](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/)). In October 2025 a claim that a model had solved 10 open problems
-  fell apart: the answers were already published ([The Decoder](https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/)). In May 2026 a model's work
-  brought down an 80-year-old conjecture, and nine mathematicians checked it (Alon et al.,
-  [arXiv:2605.20695](https://arxiv.org/abs/2605.20695)). By autumn 2026, four labs had released four new models in six weeks,
-  while METR had already reported that the strongest agents had reached the ceiling of its outside
-  test ([METR, May 2026](https://metr.org/blog/2026-05-19-frontier-risk-report/)).
+- **Two stories from maths.** In May 2026 Timothy Gowers wrote that one AI proof could be "a perfectly reasonable chapter in a combinatorics PhD"
+  ([blog](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)). In July 2026 Claude found a counterexample to the 87-year-old Jacobian conjecture, for
+  three or more dimensions, and it was checked in Lean ([Tao](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)). In October 2026 OpenAI claimed
+  results on hundreds of open problems ([openai/math](https://github.com/openai/math)), and three of those papers were withdrawn the next
+  day. The speaker's reading: in some fields AI can now work like a PhD student, sometimes even like
+  an expert, and every claim still needs checking.
 - **Making is cheap; judging is scarce.** ICLR, one of the main AI conferences, had 490 submissions
   in 2017 and 19,525 in 2026, and about 62,000 have been submitted for 2027, not yet reviewed. At
   ICLR 2026, 18,054 reviewers wrote 76,139 reviews, and the programme chairs wrote that the scale
@@ -102,15 +100,19 @@ How the speaker would do research now:
 
 - **Outlast the model.** Ask: would it still matter if models were ten times better?
 - **Let AI do; you judge.** Hand it the doing, keep the judging, and write the first draft yourself.
-- **Find your own crossing.** Start from a question your field asks best, and bring AI to it.
+- **Find your own crossing.** Start from a question your field asks best, and bring AI to it. For example:
+  does talking to AI add to human contact, or replace it?
 
 The talk's view: when making things gets cheap, judging is the real work, and that has always been
 the job of psychology and the humanities.
 
 ## How the talk ended
 
-The talk ended by going back to the question on its cover: how would we know a machine really has
-an ability? Not by giving it a new name, but by checking it against people: compare the mistakes,
+The summary page gave each part's answer and came back to the line from the start: **AI learns from
+people. If we check it against people, it can help us study people.**
+
+A backup page holds a second ending. It goes back to the question on the cover: how would we know a
+machine really has an ability? Not by giving it a new name, but by checking it against people: compare the mistakes,
 compare with a group, compare with real people.
 
 Then it returned to Clever Hans. After he had solved the puzzle, Pfungst played Hans himself: he
@@ -118,12 +120,12 @@ asked 25 people each to think of a number and tapped like Hans, and when he reac
 gave a small nod without knowing it (Pfungst, 1911,
 [Project Gutenberg](https://www.gutenberg.org/ebooks/33936)). A test of a horse became a finding
 about people, and the talk's tests do the same: they teach us how people see, understand events and
-act together. The closing line: **we can't know it by defining intelligence; we know it by testing
+act together. The page's last line: **we can't know it by defining intelligence; we know it by testing
 it, and every test also tests us.**
 
-<img src="figures/talk/slides/p48.png" width="88%" alt="Slide 48: the question on the cover, answered by checking against people; Pfungst plays Hans, and 23 of 25 people give the cue">
+<img src="figures/talk/slides/p85.png" width="88%" alt="Backup slide 85: the question on the cover, answered by checking against people; Pfungst plays Hans, and 23 of 25 people give the cue">
 
-*Slide 48 of the talk: the same experiment, two kinds of participants.*
+*Backup slide 85 of the talk: Hans's second ending.*
 
 ## How much there is to read
 
