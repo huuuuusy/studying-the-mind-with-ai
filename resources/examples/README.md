@@ -5,8 +5,8 @@
 Each card covers one published study on a single page: the question, the method in
 psychology's terms, the finding, why it is worth reading, its limits, and whether its data and
 code are public. Each part of the talk has five, and two more go with the opening and a backup page. The numbers on the cards come from the papers
-themselves; follow the links to check them. Seven cards cover studies the talk did not show
-(Peterson, Morgenroth, Uma, Rathje, Demszky, Angelopoulos and Ashokkumar); each of those cards says
+themselves; follow the links to check them. Nine cards cover studies the talk did not show
+(Peterson, Morgenroth, Uma, Rathje, Demszky, Angelopoulos, Ashokkumar, Geirhos 2021 and Fu); each of those cards says
 which part of the talk to read it with.
 
 | Part | Card | Study | Method | Data public |

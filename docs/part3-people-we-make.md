@@ -83,7 +83,7 @@ Argyle et al., 2023, *Political Analysis*
 
 **What they found.** GPT-3's biases are not one uniform property but fine-grained and correlated with demographics, so suitable backstories make the model reproduce the response distributions of many human subgroups. The authors call this *algorithmic fidelity*, and argue that a model with enough of it can be a tool for studying people and society.
 
-**What it means here.** Here the comparison with real people is made at the level of groups, not of one person as in reading 3. It compares response distributions, which fits this part's advice to compare a group's spread with people's, not only its average. In the talk it appears on a backup page for Part 4, on whether a model can play the participant: it can pretest a study, not replace the sample.
+**What it means here.** Here the comparison with real people is made at the level of groups, not of one person as in reading 3. It compares response distributions, which fits this part's advice to compare a group's spread with people's, not only its average. In the talk it appears on the Part 4 page "Modelling: the model as a stand-in", and on a backup page on whether a model can play the participant: it can pretest a study, not replace the sample.
 
 **What it does not show.** The comparison covers American survey respondents on the questions studied. Later work finds that silicon samples can misrepresent and flatten identity groups, and that synthetic survey data can mislead (see [How they connect](#how-they-connect)).
 

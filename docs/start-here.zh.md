@@ -60,7 +60,7 @@
 
 讲座收尾时讲了讲者看到的两件事，以及讲者现在会怎样做研究（“为什么心理学和人文学科现在更重要”）。
 
-- **两个数学故事。** 2026 年 5 月，Timothy Gowers 写道，一个 AI 证明可以成为“组合数学博士论文里完全合格的一章”（[博客](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)）。2026 年 7 月，Claude 找到了有 87 年历史的雅可比猜想在三维及以上的反例，并在 Lean 中得到检验（[Tao](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)）。2026 年 10 月，OpenAI 宣称在数百个公开问题上取得结果（[openai/math](https://github.com/openai/math)），其中三篇论文第二天就撤回了。讲者的看法是：在一些领域，AI 已经能像博士生那样工作，有时甚至像专家，而每个说法都还需要核查。
+- **两个数学故事。** 2026 年 5 月，Timothy Gowers 写道，一个 AI 证明可以成为“组合数学博士论文里完全合格的一章”（[博客](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)）。2026 年 7 月，Claude 找到了有 87 年历史的雅可比猜想在三维及以上的反例，并在 Lean 中得到检验（[Tao](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)）。2026 年 10 月，OpenAI 宣称在数百个公开问题上取得结果（[openai/math](https://github.com/openai/math)），其中三篇论文第二天就撤回了。讲者的看法是：在一些领域，AI 已经能像博士生那样工作，有时甚至像专家。连领域里的领军人物也意见不一：图灵奖得主 Yann LeCun 说，只靠文本训练，“永远到不了人类水平的智能”（Snyder，*Newsweek*，2025）。所以每个说法都还需要核查。
 - **造东西便宜了，判断稀缺了。** AI 主要会议之一 ICLR 的投稿，2017 年是 490 篇，2026 年是 19,525 篇，2027 年已有大约 62,000 篇投稿，还没有审稿。ICLR 2026 上，18,054 位审稿人写了 76,139 份审稿意见。程序主席写道，这样的规模“使得只靠人的判断来一致地标记和发现有问题的审稿意见成为不可能”（[ICLR Blog](https://blog.iclr.cc/2026/03/31/a-retrospective-on-the-iclr-2026-review-process/)）。
 
 讲者现在会这样做研究：
@@ -73,15 +73,15 @@
 
 ## 讲座怎样结束
 
-总结页给出了每一部分的回答，又回到开头那句话：**AI 向人学习。如果我们拿人来检验它，它就能帮我们研究人。**
+总结页（第 48 页）给出了每一部分的回答，又回到开头那句话：**AI 向人学习。如果我们拿人来检验它，它就能帮我们研究人。** 接着是“为什么是现在”里讲者的看法（第 49 页），最后是附有本仓库链接的致谢页。
 
 备用页上还有第二个结尾。它回到封面上的问题：我们怎么知道一台机器真的具备某种能力？不是靠给它换个名字，而是拿人来检验它：比错误，拿一群人比，拿真实的人比。
 
 然后回到聪明的汉斯。解开谜题之后，Pfungst 自己扮演汉斯：他请 25 个人各想一个数字，然后像汉斯那样敲；敲到那个数字时，其中 23 个人的头会轻轻一点，而他们自己并不知道（Pfungst，1911，[Project Gutenberg](https://www.gutenberg.org/ebooks/33936)）。一个对马的测试，变成了一个关于人的发现。讲座里的测试也一样：它们让我们更了解人怎样看、怎样理解事件、怎样一起行动。这一页的最后一句：**我们不能靠定义智能来认识它，要靠检验，而每一次检验也在检验我们自己。**
 
-<img src="figures/talk/slides/p85.png" width="88%" alt="备用页第 85 页：回答封面上的问题，要拿人来检验；Pfungst 扮演汉斯，25 人里有 23 人给了他提示">
+<img src="figures/talk/slides/p59.png" width="88%" alt="备用页第 59 页：回答封面上的问题，要拿人来检验；Pfungst 扮演汉斯，25 人里有 23 人给了他提示">
 
-*讲座备用页第 85 页：汉斯的第二个结尾。*
+*讲座备用页第 59 页：汉斯的第二个结尾。*
 
 ## 一共有多少可读
 

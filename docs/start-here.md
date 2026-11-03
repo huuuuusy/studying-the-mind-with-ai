@@ -89,7 +89,9 @@ The talk closes with two things the speaker sees, and how the speaker would do r
   three or more dimensions, and it was checked in Lean ([Tao](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)). In October 2026 OpenAI claimed
   results on hundreds of open problems ([openai/math](https://github.com/openai/math)), and three of those papers were withdrawn the next
   day. The speaker's reading: in some fields AI can now work like a PhD student, sometimes even like
-  an expert, and every claim still needs checking.
+  an expert. Even the field's leaders disagree: Yann LeCun, a Turing Award winner, says "we're never going
+  to get to human-level intelligence by just training on text" (Snyder, *Newsweek*, 2025). So every
+  claim still needs checking.
 - **Making is cheap; judging is scarce.** ICLR, one of the main AI conferences, had 490 submissions
   in 2017 and 19,525 in 2026, and about 62,000 have been submitted for 2027, not yet reviewed. At
   ICLR 2026, 18,054 reviewers wrote 76,139 reviews, and the programme chairs wrote that the scale
@@ -108,8 +110,9 @@ the job of psychology and the humanities.
 
 ## How the talk ended
 
-The summary page gave each part's answer and came back to the line from the start: **AI learns from
-people. If we check it against people, it can help us study people.**
+The summary page (slide 48) gave each part's answer and came back to the line from the start: **AI learns from
+people. If we check it against people, it can help us study people.** The speaker's view in "Why now"
+(slide 49) followed, and then the thanks page with the link to this repository.
 
 A backup page holds a second ending. It goes back to the question on the cover: how would we know a
 machine really has an ability? Not by giving it a new name, but by checking it against people: compare the mistakes,
@@ -123,9 +126,9 @@ about people, and the talk's tests do the same: they teach us how people see, un
 act together. The page's last line: **we can't know it by defining intelligence; we know it by testing
 it, and every test also tests us.**
 
-<img src="figures/talk/slides/p85.png" width="88%" alt="Backup slide 85: the question on the cover, answered by checking against people; Pfungst plays Hans, and 23 of 25 people give the cue">
+<img src="figures/talk/slides/p59.png" width="88%" alt="Backup slide 59: the question on the cover, answered by checking against people; Pfungst plays Hans, and 23 of 25 people give the cue">
 
-*Backup slide 85 of the talk: Hans's second ending.*
+*Backup slide 59 of the talk: Hans's second ending.*
 
 ## How much there is to read
 
