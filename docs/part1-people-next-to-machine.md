@@ -29,7 +29,7 @@
 
 ## What it gives back to psychology
 
-The tests also teach us about people, here about how we see. But a model built from a theory of human vision does not test that theory on its own. Taking one part of the tracker away shows what the model needs, not how people see. Whether the split between central and peripheral vision holds for people needs people: for example, masking central or peripheral vision and seeing whether the same kinds of error rise. A backup page of the talk leaves this as an open question: do a model's parts fail like ours?
+The tests also teach us about people, here about how we see. But a model built from a theory of human vision does not test that theory on its own. Taking one part of the tracker away shows what the model needs, not how people see. Whether the split between central and peripheral vision holds for people needs people: for example, masking central or peripheral vision and seeing whether the same kinds of error rise. That remains an open question: do a model's parts fail like ours?
 
 ## Key readings
 

@@ -4,7 +4,7 @@
 
 **研究。** Serapio-García, G., Safdari, M., Crepy, C., Sun, L., Fitz, S., Romero, P., Abdulhai, M., Faust, A., & Matarić, M. (2025). A psychometric framework for evaluating and shaping personality traits in large language models. *Nature Machine Intelligence, 7*(12), 1954–1968. [doi:10.1038/s42256-025-01115-6](https://doi.org/10.1038/s42256-025-01115-6) · [arXiv](https://arxiv.org/abs/2307.00184) (earlier arXiv version, 2023: *Personality traits in large language models*)
 
-**在讲座里。** 第 3 部分，[一个社会：我们造出来的人](../../docs/part3-people-we-make.zh.md)，备用页“人设是一种操纵”讲了怎样检验，另一张备用页“一次通过了的人设检验”给出了这项研究的结果：每个大五人格特质单独设定，从低到高；结果主要是被设定的那个特质在变，所以这个检验可以通过。
+**在讲座里。** 讲座里没有展示；配合[第 3 部分，一个社会：我们造出来的人](../../docs/part3-people-we-make.zh.md)来读。人设是一种操纵，所以需要检验，这项研究给出了这项研究的结果：每个大五人格特质单独设定，从低到高；结果主要是被设定的那个特质在变，所以这个检验可以通过。
 
 **问题。** 语言模型回答人格测验时，得分是否像心理学对人类测验所要求的那样可靠、有效？模型的人格能否被有意塑造？
 

@@ -4,7 +4,7 @@
 
 **研究。** Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C. L., Mishkin, P., et al. (2022). Training language models to follow instructions with human feedback. *Advances in Neural Information Processing Systems (NeurIPS) 35*. [doi:10.52202/068431-2011](https://doi.org/10.52202/068431-2011) · [arXiv](https://arxiv.org/abs/2203.02155)
 
-**在讲座里。** 第 2 部分，[一群人：人作为答案](../../docs/part2-people-as-the-answer.zh.md)，“ChatGPT 的前夜：RLHF”这一页：ChatGPT 的训练建立在人的成对比较之上。一张备用页讲到，聊天机器人的排名也是这样。
+**在讲座里。** 第 2 部分，[一群人：人作为答案](../../docs/part2-people-as-the-answer.zh.md)，“ChatGPT 的前夜：RLHF”这一页：ChatGPT 的训练建立在人的成对比较之上。
 
 **问题。** 能否不靠把语言模型做大，而是用人的判断来训练它，使它遵循用户的意图？
 

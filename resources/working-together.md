@@ -52,9 +52,9 @@ The page sets out what each side brings, where the two fields meet (one place fo
 
 *Part 4 · AI in your own research. The check: check it first, then use it.*
 
-- **The question.** A model reads your data, or takes a person's place: it codes your material, pretests your study or talks with participants. What can you still conclude about people?
+- **The question.** A model analyses your data, learns from your labels, or plays a participant or a partner. What can you still conclude about people?
 - **AI research brings.** Choosing a model and setting it up; running it the same way every time; keeping the outputs of every run.
-- **Psychology brings.** The coding scheme and the human coders the model is checked against; new people to test it on, and a control for the suspected cue; the real sample, of which a simulated pretest is no replacement; the validation.
+- **Psychology brings.** New people to test it on, and a control for the suspected cue; every rater, and their agreement as the ceiling; the validity of the measure; the real sample and its spread, of which a simulated pretest is no replacement; treatment fidelity.
 - **Studies to learn from.** [A model as a coder](examples/gilardi2023-ai-annotation.md) and [Predicting the results of experiments](examples/ashokkumar2026-predicting-experiments.md).
 
 ## Before you start: what to agree on

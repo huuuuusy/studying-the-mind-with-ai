@@ -2,7 +2,7 @@
 
 # 重点必读，每篇一张卡片
 
-每张卡片用一页介绍一项已发表的研究：问题、用心理学术语描述的方法、发现、为什么值得读、局限，以及数据和代码是否公开。讲座的每个部分各有五张，另有两张分别配合开场和一张备用页。卡片上的数字都来自论文本身；可以顺着链接去核对。有九张卡片介绍的研究讲座里没有展示（Peterson、Morgenroth、Uma、Rathje、Demszky、Angelopoulos、Ashokkumar、Geirhos 2021 和 Fu）；这几张卡片都说明了该配合讲座的哪一部分来读。
+每张卡片用一页介绍一项已发表的研究：问题、用心理学术语描述的方法、发现、为什么值得读、局限，以及数据和代码是否公开。讲座的每个部分各有五张，另有两张分别配合开场和第 3 部分。卡片上的数字都来自论文本身；可以顺着链接去核对。有十三张卡片介绍的研究讲座里没有展示（Fu、Geirhos 2021、Peterson、Morgenroth、Uma、Argyle、Serapio-García、Weng、Demszky、Gilardi、Rathje、Angelopoulos 和 Ashokkumar）；这几张卡片都说明了该配合讲座的哪一部分来读。
 
 | 部分 | 卡片 | 研究 | 方法 | 数据公开 |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@
 | 3 · 一个社会 | [由一而多：硅样本](argyle2023-silicon-samples.zh.md) | Argyle et al., 2023, *Political Analysis* | 以真实受访者的背景为条件的模型，与他们的回答比较 | 调查数据公开 |
 | 3 · 一个社会 | [测量和塑造模型的人格](serapio2025-personality.zh.md) | Serapio-García et al., 2025, *Nature Machine Intelligence* | 心理测量的信度和效度；用指令塑造特质 | 见原文 |
 | 开场 | [借助人设的三方图灵测试](jones2026-turing-test.zh.md) | Jones & Bergen, 2026, *PNAS* | 预注册、随机化的图灵测试；有人设和无人设 | 见原文 |
-| 3 · 备用页 | [用语言模型智能体重做 Asch 实验](weng2025-conformity.zh.md) | Weng, Chen & Wang, 2025, *ICLR* | Asch 式的实验程序；从众率和独立率 | 代码公开 |
+| 3 · 一个社会 | [用语言模型智能体重做 Asch 实验](weng2025-conformity.zh.md) | Weng, Chen & Wang, 2025, *ICLR* | Asch 式的实验程序；从众率和独立率 | 代码公开 |
 | 4 · 你的研究 | [让模型当编码者](gilardi2023-ai-annotation.zh.md) | Gilardi et al., 2023, *PNAS*，以及 Reiss, 2023 | 模型与众包工作者和受过训练的标注者对比；重复的和改写过的提示词 | 见原文 |
 | 4 · 你的研究 | [用十二种语言做心理学文本分析](rathje2024-psychological-text.zh.md) | Rathje et al., 2024, *PNAS* | 47,925 篇标注过的文本，12 种语言；模型与词典和微调过的模型（在这项任务上额外训练过的模型）对比 | 示例代码 |
 | 4 · 你的研究 | [语言模型能为心理学做什么，不能做什么](demszky2023-llms-in-psychology.zh.md) | Demszky et al., 2023, *Nature Reviews Psychology* | Perspective：用途、顾虑、建议 | 不适用 |

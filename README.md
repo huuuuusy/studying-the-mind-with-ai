@@ -29,7 +29,7 @@ AI (behavioral analysis, Parts 1–2); later, AI helps us study people (role sim
 | 1 · One person: people next to the machine | Right answer, right reason? Not yet: close scores, different mistakes. **Compare the mistakes, not only the scores.** | [guide](docs/part1-people-next-to-machine.md) | [five studies](docs/part1-people-next-to-machine.md#key-readings) |
 | 2 · A group: people as the answer | Whose standard does it follow? A group of people, not one person. **Compare with a group, not one person.** | [guide](docs/part2-people-as-the-answer.md) | [five studies](docs/part2-people-as-the-answer.md#key-readings) |
 | 3 · A society: people we make | Is it like us enough to study us? To rehearse a study, not to replace its people. **Compare it with real people.** | [guide](docs/part3-people-we-make.md) | [five studies](docs/part3-people-we-make.md#key-readings) |
-| 4 · AI in your own research | How can you use it? **Check it first, then use it**, whether a model reads your data or takes a person's place. | [guide](docs/part4-ai-in-your-research.md) | [five studies](docs/part4-ai-in-your-research.md#key-readings) |
+| 4 · AI in your own research | How can you use it? **Check it first, then use it**, whether a model analyses your data, measures with your labels or plays a person. | [guide](docs/part4-ai-in-your-research.md) | [five studies](docs/part4-ai-in-your-research.md#key-readings) |
 
 Each guide has the same sections:
 - what the talk showed and the question behind it;
@@ -53,7 +53,7 @@ Each guide has the same sections:
 
 | Layer | What | How many |
 |---|---|---|
-| Close reading | [key readings](resources/examples/), one page each: five for each of the four parts, and two more for the opening and a backup page | 22 cards |
+| Close reading | [key readings](resources/examples/), one page each: five for each of the four parts, and two more for the opening and Part 3 | 22 cards |
 | A path through them | the [reading path](resources/reading-path.md): an afternoon's start, the key readings in order, then the debates | 4 + 20 + 20 |
 | The wider field | the [field-wide list](resources/literature.md), in 19 groups across Parts 1–3 (101, 102 and 108 entries); about 250 papers, 49 data sets and 13 simulation platforms | 311 entries |
 | Other ways in | reading lists [by part of the talk](resources/README.md) (53) and [by area of psychology](resources/students.md) (46, in five areas), which overlap with the above | 99 entries |

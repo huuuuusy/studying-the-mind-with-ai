@@ -19,7 +19,7 @@
 | 1 · 一个人：机器旁边的人 | 答对了，理由也对吗？还没有：分数相近，错误不同。**比错误，不只比分数。** | [导读](docs/part1-people-next-to-machine.zh.md) | [五篇研究](docs/part1-people-next-to-machine.zh.md#重点必读) |
 | 2 · 一群人：人作为答案 | 它遵循谁的标准？一群人，而不是一个人。**拿一群人比，不拿一个人比。** | [导读](docs/part2-people-as-the-answer.zh.md) | [五篇研究](docs/part2-people-as-the-answer.zh.md#重点必读) |
 | 3 · 一个社会：我们造出来的人 | 它像我们，像到能研究我们吗？用来预演一项研究，不能取代研究里的人。**拿真实的人比。** | [导读](docs/part3-people-we-make.zh.md) | [五篇研究](docs/part3-people-we-make.zh.md#重点必读) |
-| 4 · 在你自己的研究里用 AI | 你可以怎样用它？**先检验，再使用**：不管模型是读你的数据，还是坐到一个人的位置上。 | [导读](docs/part4-ai-in-your-research.zh.md) | [五篇研究](docs/part4-ai-in-your-research.zh.md#重点必读) |
+| 4 · 在你自己的研究里用 AI | 你可以怎样用它？**先检验，再使用**：不管模型是分析你的数据、用你的标签做测量，还是扮演一个人。 | [导读](docs/part4-ai-in-your-research.zh.md) | [五篇研究](docs/part4-ai-in-your-research.zh.md#重点必读) |
 
 每部分的导读都有相同的几节：
 - 讲座里讲了什么，以及背后的问题；
@@ -43,7 +43,7 @@
 
 | 层次 | 内容 | 数量 |
 |---|---|---|
-| 精读 | [重点必读卡片](resources/examples/README.zh.md)，每篇一页：讲座四个部分各五篇，另有两篇配合开场和一张备用页 | 22 张 |
+| 精读 | [重点必读卡片](resources/examples/README.zh.md)，每篇一页：讲座四个部分各五篇，另有两篇配合开场和第 3 部分 | 22 张 |
 | 一步一步读 | [阅读路线](resources/reading-path.zh.md)：一个下午的入门，按顺序读重点必读，最后读争论 | 4 + 20 + 20 篇 |
 | 更大的版图 | [全领域文献清单](resources/literature.md)（英文），第 1–3 部分共 19 组（101、102、108 条）；其中约 250 篇论文、49 个数据集、13 个模拟平台 | 311 条 |
 | 其他入口 | [按讲座部分](resources/README.md)（53 条）和[按心理学方向](resources/students.md)（46 条，五个方向）的阅读清单（英文），和上面有大量重合 | 99 条 |

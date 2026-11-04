@@ -4,7 +4,7 @@
 
 **Study.** Serapio-García, G., Safdari, M., Crepy, C., Sun, L., Fitz, S., Romero, P., Abdulhai, M., Faust, A., & Matarić, M. (2025). A psychometric framework for evaluating and shaping personality traits in large language models. *Nature Machine Intelligence, 7*(12), 1954–1968. [doi:10.1038/s42256-025-01115-6](https://doi.org/10.1038/s42256-025-01115-6) · [arXiv](https://arxiv.org/abs/2307.00184) (earlier arXiv version, 2023: *Personality traits in large language models*)
 
-**In the talk.** Part 3, [A society: people we make](../../docs/part3-people-we-make.md), the backup page "A persona is a manipulation" sets out the check, and another, "A persona check that passed", shows this study's result: each Big Five trait prompted on its own, from low to high; mainly the trait that was prompted moved, so the check can pass.
+**In the talk.** Not shown in the talk; read it with [Part 3, A society: people we make](../../docs/part3-people-we-make.md). A persona is a manipulation, so it needs a check, and this study shows this study's result: each Big Five trait prompted on its own, from low to high; mainly the trait that was prompted moved, so the check can pass.
 
 **Question.** When a language model answers a personality test, are the scores reliable and valid in the sense psychology requires of human tests? And can a model's personality be shaped deliberately?
 

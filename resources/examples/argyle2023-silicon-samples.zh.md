@@ -4,7 +4,7 @@
 
 **研究。** Argyle, L. P., Busby, E. C., Fulda, N., Gubler, J., Rytting, C., & Wingate, D. (2023). Out of one, many: Using language models to simulate human samples. *Political Analysis, 31*(3), 337–351. [doi:10.1017/pan.2023.2](https://doi.org/10.1017/pan.2023.2) · [arXiv](https://arxiv.org/abs/2209.06899)
 
-**在讲座里。** 第 4 部分[在你自己的研究里用 AI](../../docs/part4-ai-in-your-research.zh.md)的“建模：模型当替身”这一页（用真实数据构建模拟的人），以及问答用的备用页“AI 能扮演被试吗？”：硅样本能像各个子群体那样作答，所以可以为研究做预测试，但不能取代样本。它的重点必读条目在[第 3 部分，一个社会：我们造出来的人](../../docs/part3-people-we-make.zh.md)。
+**在讲座里。** 讲座里没有展示；配合[第 4 部分，在你自己的研究里用 AI](../../docs/part4-ai-in-your-research.zh.md)来读：硅样本能像各个子群体那样作答，所以可以为研究做预测试，但不能取代样本。它的重点必读条目在[第 3 部分，一个社会：我们造出来的人](../../docs/part3-people-we-make.zh.md)。
 
 **问题。** 在社会科学研究中，语言模型能否代表特定人群，例如像具有某种背景的人那样回答一份调查问卷？
 

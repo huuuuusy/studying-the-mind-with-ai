@@ -4,9 +4,10 @@
 
 Each card covers one published study on a single page: the question, the method in
 psychology's terms, the finding, why it is worth reading, its limits, and whether its data and
-code are public. Each part of the talk has five, and two more go with the opening and a backup page. The numbers on the cards come from the papers
-themselves; follow the links to check them. Nine cards cover studies the talk did not show
-(Peterson, Morgenroth, Uma, Rathje, Demszky, Angelopoulos, Ashokkumar, Geirhos 2021 and Fu); each of those cards says
+code are public. Each part of the talk has five, and two more go with the opening and Part 3. The numbers on the cards come from the papers
+themselves; follow the links to check them. Thirteen cards cover studies the talk did not show
+(Fu, Geirhos 2021, Peterson, Morgenroth, Uma, Argyle, Serapio-García, Weng, Demszky, Gilardi,
+Rathje, Angelopoulos and Ashokkumar); each of those cards says
 which part of the talk to read it with.
 
 | Part | Card | Study | Method | Data public |
@@ -27,7 +28,7 @@ which part of the talk to read it with.
 | 3 · a society | [Out of one, many: silicon samples](argyle2023-silicon-samples.md) | Argyle et al., 2023, *Political Analysis* | model conditioned on real respondents' backgrounds, compared with their answers | survey data public |
 | 3 · a society | [Measuring and shaping a model's personality](serapio2025-personality.md) | Serapio-García et al., 2025, *Nature Machine Intelligence* | psychometric reliability and validity; shaping traits by instruction | see article |
 | opening | [A three-party Turing test, with a persona](jones2026-turing-test.md) | Jones & Bergen, 2026, *PNAS* | preregistered, randomised Turing tests; with and without a persona | see article |
-| 3 · backup page | [Asch's experiment with language-model agents](weng2025-conformity.md) | Weng, Chen & Wang, 2025, *ICLR* | Asch-style protocols; conformity and independence rates | code yes |
+| 3 · a society | [Asch's experiment with language-model agents](weng2025-conformity.md) | Weng, Chen & Wang, 2025, *ICLR* | Asch-style protocols; conformity and independence rates | code yes |
 | 4 · your research | [A model as a coder](gilardi2023-ai-annotation.md) | Gilardi et al., 2023, *PNAS*, with Reiss, 2023 | model against crowd workers and trained annotators; repeated and reworded prompts | see articles |
 | 4 · your research | [Psychological text analysis in twelve languages](rathje2024-psychological-text.md) | Rathje et al., 2024, *PNAS* | 47,925 annotated texts, 12 languages; model against dictionaries and fine-tuned models (models given extra training on the task) | sample code |
 | 4 · your research | [What language models can and cannot do for psychology](demszky2023-llms-in-psychology.md) | Demszky et al., 2023, *Nature Reviews Psychology* | Perspective: uses, concerns, recommendations | n/a |
