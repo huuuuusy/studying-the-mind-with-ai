@@ -29,7 +29,7 @@ AI (behavioral analysis, Parts 1–2); later, AI helps us study people (role sim
 | 1 · One person: people next to the machine | Right answer, right reason? Not yet: close scores, different mistakes. **Compare the mistakes, not only the scores.** | [guide](docs/part1-people-next-to-machine.md) | [five studies](docs/part1-people-next-to-machine.md#key-readings) |
 | 2 · A group: people as the answer | Whose standard does it follow? A group of people, not one person. **Compare with a group, not one person.** | [guide](docs/part2-people-as-the-answer.md) | [five studies](docs/part2-people-as-the-answer.md#key-readings) |
 | 3 · A society: people we make | Is it like us enough to study us? To rehearse a study, not to replace its people. **Compare it with real people.** | [guide](docs/part3-people-we-make.md) | [five studies](docs/part3-people-we-make.md#key-readings) |
-| 4 · AI in your own research | How can you use it? **Check it first, then use it**, whether a model analyses your data, measures with your labels or plays a person. | [guide](docs/part4-ai-in-your-research.md) | [five studies](docs/part4-ai-in-your-research.md#key-readings) |
+| 4 · AI in your own research | How can you use it? **Check it first, then use it**, whether a model reads your data, is scored against people or plays a person. | [guide](docs/part4-ai-in-your-research.md) | [five studies](docs/part4-ai-in-your-research.md#key-readings) |
 
 Each guide has the same sections:
 - what the talk showed and the question behind it;

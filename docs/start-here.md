@@ -58,7 +58,7 @@ analysis, Parts 1–2); later, AI helps us study people (role simulation, Parts 
 | 1 · One person: people next to the machine | Right answer, right reason? | Not yet: close scores, different mistakes. To check the reason, **compare the mistakes, not only the scores**. | [Part 1](part1-people-next-to-machine.md) |
 | 2 · A group: people as the answer | Whose standard does it follow? | A group of people, not one person. To check the standard, **compare with a group, not one person**. | [Part 2](part2-people-as-the-answer.md) |
 | 3 · A society: people we make | Is it like us enough to study us? | To rehearse a study, not to replace its people. To check a simulation, **compare it with real people**. | [Part 3](part3-people-we-make.md) |
-| 4 · AI in your own research | How can you use it? | **Check it first, then use it**: analysing your data, test on new people and try the cue alone; measuring with your labels, keep every rater, since their agreement is the ceiling; simulating people, see the whole spread and check it over time. | [Part 4](part4-ai-in-your-research.md) |
+| 4 · AI in your own research | How can you use it? | **Check it first, then use it**: from multimodal learning, take one signal away and test where the data changes; from evaluation, compare with a group of people and look past the average; from agent modelling, check it against real people, the whole range and over time. | [Part 4](part4-ai-in-your-research.md) |
 
 <img src="figures/talk/slides/p46.png" width="88%" alt="Slide 46: the four questions and the talk's answer to each">
 
@@ -114,9 +114,9 @@ the job of psychology and the humanities.
 The talk ended on that view, and on a last page that points to this repository. For questions, it
 gathered its answers into five, each pointing back to the pages that make it:
 
-1. **Look past the score.** Right answer, right reason? (Part 1, and analysis in Part 4.)
-2. **Compare with a group.** Whose standard? (Part 2, and measurement in Part 4.)
-3. **Rehearse, don't replace.** Like us enough to study us? (Part 3, and simulation in Part 4.)
+1. **Look past the score.** Right answer, right reason? (Part 1, and multimodal learning in Part 4.)
+2. **Compare with a group.** Whose standard? (Part 2, and evaluation in Part 4.)
+3. **Rehearse, don't replace.** Like us enough to study us? (Part 3, and agent modelling in Part 4.)
 4. **Check it over time.** Does it stay itself? (The virtual students of Part 3.)
 5. **Judging is psychology's job.** When making gets cheap, your training is the check.
 

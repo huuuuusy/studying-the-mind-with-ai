@@ -12,7 +12,7 @@
 
 **Finding.** On GSS items that were not part of what the agents were given, interview agents gave their person's answer 65.67% of the time; people repeated their own answer 79.53% of the time: a normalised accuracy of 0.83. Survey agents reached 0.82, both sources 0.86, demographics only 0.74. Self-report agents also generally narrowed accuracy gaps across racial and ideological groups. These figures are from the current version (v3, June 2026); the first version, with an earlier analysis, reported 0.85 and 0.71.
 
-**Why read it.** It changes what a simulated person is judged against: not whether it looks human, but whether it matches the same person, measured twice. People's own two-week consistency becomes the ceiling.
+**Why read it.** It changes what a simulated person is judged against: not whether it looks human, but whether it matches the same person, measured twice. People's own two-week consistency becomes the upper limit.
 
 **Limits.** Matching individuals is not reproducing how attitudes go together across a sample, as the authors note. In the economic games, no agent type beat demographics alone significantly. In the five experiments, agents' effect sizes were larger than people's, though closely correlated; five studies are too few to say more. One model family, English only, U.S. participants.
 
