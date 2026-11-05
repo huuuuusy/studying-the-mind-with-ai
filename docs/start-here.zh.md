@@ -61,7 +61,7 @@
 讲座收尾时讲了讲者看到的两件事，以及讲者现在会怎样做研究（“为什么心理学和人文学科现在更重要”）。
 
 - **速度，和核查。** 今年数学界有两则新闻。7 月，Claude 找到了一个反例，推翻了一个 87 年的猜想，即三维及以上的雅可比猜想（[T. Tao，博客](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)）。10 月，OpenAI 声称在几百个开放问题上有了结果（[github.com/openai/math](https://github.com/openai/math)），其中三篇论文第二天就撤回了（[Retraction Watch](https://retractionwatch.com/?p=136176)）。今年早些时候，一位顶尖数学家说，一份 AI 的证明可以算博士论文里像样的一章（[W. T. Gowers，博客](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)）。所以在部分领域，AI 已经能像博士生那样工作，有时甚至像专家。可连领域里的领军人物也意见不一：图灵奖得主 Yann LeCun 认为，只靠文本训练，永远到不了人类水平的智能（G. Snyder，*Newsweek*，2025）。每个说法都还需要核查。
-- **造东西便宜了，判断稀缺了。** AI 主要会议之一 ICLR 的投稿，2017 年是 490 篇，2026 年是 19,525 篇，2027 年已有大约 62,000 篇投稿，还没有审稿。ICLR 2026 上，18,054 位审稿人写了 76,139 份审稿意见。程序主席写道，这样的规模“使得只靠人的判断来一致地标记和发现有问题的审稿意见成为不可能”（[ICLR Blog](https://blog.iclr.cc/2026/03/31/a-retrospective-on-the-iclr-2026-review-process/)）。这些投稿，总得有人一篇篇读完。
+- **造东西便宜了，判断变难了。** AI 主要会议之一 ICLR 的投稿，2017 年是 490 篇，2026 年是 19,525 篇，2027 年已有大约 62,000 篇投稿，还没有审稿。ICLR 2026 上，18,054 位审稿人写了 76,139 份审稿意见。程序主席写道，这样的规模“使得只靠人的判断来一致地标记和发现有问题的审稿意见成为不可能”（[ICLR Blog](https://blog.iclr.cc/2026/03/31/a-retrospective-on-the-iclr-2026-review-process/)）。这些投稿，总得有人一篇篇读完。
 
 讲者现在会这样做研究：
 

@@ -8,6 +8,7 @@
 | [part3-people-we-make.md](part3-people-we-make.md) | Part 3, a society: people we make |
 | [part4-ai-in-your-research.md](part4-ai-in-your-research.md) | Part 4: multimodal learning, evaluation and agent modelling in your own research |
 | [glossary.md](glossary.md) | the terms used in the talk and the guides |
+| [slides/](slides/) | the 48 slides of the talk as a PDF, without speaker notes |
 | [handout/handout.pdf](handout/handout.pdf) | the essentials on paper; rebuild with `python3 docs/handout/make_handout.py` |
 | [handout/handout.zh.pdf](handout/handout.zh.pdf) | the same in Chinese; rebuild with `python3 docs/handout/make_handout.py zh` |
 

@@ -93,7 +93,7 @@ The talk closes with two things the speaker sees, and how the speaker would do r
   works like a PhD student, sometimes like an expert. Yet even the field's leaders disagree: Yann
   LeCun, a Turing Award winner, holds that training on text alone will never reach human-level
   intelligence (G. Snyder, *Newsweek*, 2025). Every claim still needs checking.
-- **Making is cheap; judging is scarce.** ICLR, one of the main AI conferences, had 490 submissions
+- **Making is cheap; judging is hard.** ICLR, one of the main AI conferences, had 490 submissions
   in 2017 and 19,525 in 2026, and about 62,000 have been submitted for 2027, not yet reviewed. At
   ICLR 2026, 18,054 reviewers wrote 76,139 reviews, and the programme chairs wrote that the scale
   "made it impossible to rely on human judgement alone to consistently flag and discover problematic

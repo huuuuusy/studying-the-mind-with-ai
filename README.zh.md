@@ -2,6 +2,9 @@
 
 # Studying the Human Mind with AI
 
+> **更新，2026 年 11 月 5 日。** 讲座的幻灯片已经以 PDF 形式上传：
+> [docs/slides/](docs/slides/README.zh.md)（48 页，不含讲稿备注）。
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23684070.svg)](https://doi.org/10.5281/zenodo.23684070)
 
 **讲座 *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation*（用 AI 研究人的心智：从行为分析到角色模拟）的配套阅读指南。** 讲座里讲到的内容去哪里读，关键术语是什么意思，该从哪些研究学起，以及它们之间的关系。不需要写代码。
