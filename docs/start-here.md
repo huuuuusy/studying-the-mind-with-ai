@@ -120,8 +120,8 @@ gathered its answers into five, each pointing back to the pages that make it:
    Psychology calls it inter-rater reliability. (Part 2, and the digital twins of Part 3.)
 3. **Rehearse, don't replace.** Like us enough to study us? Rehearse in simulation, decide with
    people. Psychology calls it a pilot. (Part 3, and agent modelling in Part 4.)
-4. **Check it over time.** Does it stay itself? Ask again later. Psychology calls it test–retest,
-   and treatment fidelity. (The virtual students of Part 3, and agent modelling in Part 4.)
+4. **Check it over time.** Does it stay itself? Ask again later. Psychology calls it test–retest: the
+   same person, asked again later. (The virtual students of Part 3, and agent modelling in Part 4.)
 5. **Judging is psychology's job.** When making gets cheap, AI makes and people judge; measurement,
    design and validity are psychology's tools for checking AI. (Part 4 and the closing view.)
 

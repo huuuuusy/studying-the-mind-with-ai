@@ -71,12 +71,13 @@ for the concerns that come with each use.
 changes. Measure each link, not only the outcome.
 
 **In the talk.** [Part 4, agent modelling](../docs/part4-ai-in-your-research.md#what-the-talk-showed):
-fix what the agent decides and let only the words vary, which psychology calls treatment fidelity,
-and check it over time, which it calls test–retest. [Part 3](../docs/part3-people-we-make.md) shows how a persona drifts.
+fix what the agent decides and let only the words vary, so that every participant meets the same
+partner, and check it over time, which psychology calls test–retest. [Part 3](../docs/part3-people-we-make.md) shows how a persona drifts.
 
 **What to keep in mind.**
 - The same input can give different outputs, so delivery can differ between participants unless the
-  decisions are fixed.
+  decisions are fixed. Psychology's name for keeping delivery the same is treatment fidelity
+  (Bellg et al., 2004, [doi](https://doi.org/10.1037/0278-6133.23.5.443)).
 - A persona set in a prompt drifts in a long conversation; one study found clear drift within eight
   rounds (Li et al., 2024, [arXiv:2402.10962](https://arxiv.org/abs/2402.10962)). Consistency is
   tested across sessions: tell the agent something in the first, and ask about it in a later one.

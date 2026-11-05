@@ -54,7 +54,7 @@ The page sets out what each side brings, where the two fields meet (one place fo
 
 - **The question.** A model analyses your data, learns from your labels, or plays a participant or a partner. What can you still conclude about people?
 - **AI research brings.** Choosing a model and setting it up; running it the same way every time; keeping the outputs of every run.
-- **Psychology brings.** A control condition for the suspected signal, and new people to test on; a group of raters, and their agreement as the ceiling; the validity of the measure; the real sample and its range, of which a simulated pretest is no replacement; test–retest and treatment fidelity.
+- **Psychology brings.** A control condition for the suspected signal, and new people to test on; a group of raters, and their agreement as the ceiling; the validity of the measure; the real sample and its range, of which a simulated pretest is no replacement; test–retest, and the same partner for every participant.
 - **Studies to learn from.** [A model as a coder](examples/gilardi2023-ai-annotation.md) and [Predicting the results of experiments](examples/ashokkumar2026-predicting-experiments.md).
 
 ## Before you start: what to agree on
