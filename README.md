@@ -3,7 +3,7 @@
 # Studying the Human Mind with AI
 
 > **Update, 5 November 2026.** The slides of the talk are now here as a PDF:
-> [docs/slides/](docs/slides/) (48 slides, without speaker notes).
+> [docs/slides/](docs/slides/) (48 slides).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23684070.svg)](https://doi.org/10.5281/zenodo.23684070)
 

@@ -4,8 +4,7 @@
 
 [**WKU-talk-2026-11-05.pdf**](WKU-talk-2026-11-05.pdf): the 48 slides of the talk *Studying the Human
 Mind with AI: From Behavioral Analysis to Role Simulation*, as given at Wenzhou-Kean University on
-5 November 2026 (7.7 MB). Slides only: no speaker notes and no annotations. What the speaker said
-around each slide is in the guides to the [four parts](../README.md).
+5 November 2026 (7.7 MB). The guides to the [four parts](../README.md) follow it part by part.
 
 Each slide names, at its foot, the papers its figures and numbers come from.
 

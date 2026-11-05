@@ -3,7 +3,7 @@
 # Studying the Human Mind with AI
 
 > **更新，2026 年 11 月 5 日。** 讲座的幻灯片已经以 PDF 形式上传：
-> [docs/slides/](docs/slides/README.zh.md)（48 页，不含讲稿备注）。
+> [docs/slides/](docs/slides/README.zh.md)（48 页）。
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23684070.svg)](https://doi.org/10.5281/zenodo.23684070)
 

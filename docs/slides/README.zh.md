@@ -3,7 +3,7 @@
 # 幻灯片
 
 [**WKU-talk-2026-11-05.pdf**](WKU-talk-2026-11-05.pdf)：讲座 *Studying the Human Mind with AI: From
-Behavioral Analysis to Role Simulation*（用 AI 研究人的心智：从行为分析到角色模拟）的 48 页幻灯片，2026 年 11 月 5 日在温州肯恩大学讲的版本（7.7 MB）。只有幻灯片页面，不含讲稿备注和批注。讲者在每一页说了什么，见[四个部分的指南](../README.md)。
+Behavioral Analysis to Role Simulation*（用 AI 研究人的心智：从行为分析到角色模拟）的 48 页幻灯片，2026 年 11 月 5 日在温州肯恩大学讲的版本（7.7 MB）。[四个部分的指南](../README.md)逐部分对应它。
 
 每一页的底部都写着图和数字出自哪些论文。
 
