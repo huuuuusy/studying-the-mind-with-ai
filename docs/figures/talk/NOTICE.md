@@ -6,8 +6,14 @@ shapes after Heider and Simmel, and the simulated classroom) were made by Shiyu 
 
 The five slide images in [`slides/`](slides/) (slides 16, 27, 40, 43 and 46 of the talk) are
 also © 2026 Shiyu Hu, all rights reserved. Each slide names, at its foot, the papers its figures
-and numbers come from; the video frames on slide 16 come from the authors' own published
+and numbers come from; the video frames on slides 16 and 43 come from the authors' own published
 tracking benchmark (VideoCube; Hu et al., IEEE TPAMI 2023).
+
+One exception: the horse photo and its heat map on slide 43 are a figure from Lapuschkin et al.,
+"Unmasking Clever Hans predictors and assessing what machines really learn", *Nature
+Communications* 10, 1096 (2019), [doi](https://doi.org/10.1038/s41467-019-08987-4), published
+under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). That figure is not the author's
+and stays under CC BY 4.0; the rest of the slide is covered by this notice.
 
 They are **not** covered by the repository's CC BY-NC 4.0 licence. You may view them here and
 show this repository in teaching; any other use, including copying them into slides, papers or
