@@ -232,7 +232,7 @@ to read more. Terms are grouped by the parts of the talk; an index follows at th
 
 **What it means.** Turing's imitation game: a judge chats by text with a machine and a human and says which is which. In the standard three-party version, the judge talks to both at once.
 **In psychology.** A blind rating, and also a measure of how people tell humans from machines.
-**Where it comes up.** The opening of the talk ([start here](start-here.md)): Turing's test, run again in 2026 (Jones & Bergen). [Part 3](part3-people-we-make.md): which reply is the real person?
+**Where it comes up.** The opening of the talk ([start here](start-here.md)): Turing's test, run again in 2026 (Jones & Bergen). [Part 3](part3-people-we-make.md): would teachers judge a virtual student's reply real?
 **Easy to get wrong.** Passing shows that the conversation looks human to these judges, not that a human-like mind lies behind it.
 **Read.** Turing, A. M. (1950). Computing machinery and intelligence. *Mind.* [doi:10.1093/mind/lix.236.433](https://doi.org/10.1093/mind/lix.236.433); Jones & Bergen (2026), [card](../resources/examples/jones2026-turing-test.md).
 

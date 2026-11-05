@@ -21,7 +21,7 @@
 |---|---|---|---|
 | 1 · 一个人：机器旁边的人 | 答对了，理由也对吗？还没有：分数相近，错误不同。**比错误，不只比分数。** | [导读](docs/part1-people-next-to-machine.zh.md) | [五篇研究](docs/part1-people-next-to-machine.zh.md#重点必读) |
 | 2 · 一群人：人作为答案 | 它遵循谁的标准？一群人，而不是一个人。**拿一群人比，不拿一个人比。** | [导读](docs/part2-people-as-the-answer.zh.md) | [五篇研究](docs/part2-people-as-the-answer.zh.md#重点必读) |
-| 3 · 一个社会：我们造出来的人 | 它像我们，像到能研究我们吗？用来预演一项研究，不能取代研究里的人。**拿真实的人比。** | [导读](docs/part3-people-we-make.zh.md) | [五篇研究](docs/part3-people-we-make.zh.md#重点必读) |
+| 3 · 一个社会：我们造出来的人 | 它像我们，像到能研究我们吗？用来排练一项研究，不能取代研究里的人。**拿真实的人比。** | [导读](docs/part3-people-we-make.zh.md) | [五篇研究](docs/part3-people-we-make.zh.md#重点必读) |
 | 4 · 在你自己的研究里用 AI | 你可以怎样用它？**先检验，再使用**：不管模型是同时读好几种信号、拿你的评分者来评测，还是扮演一个人。 | [导读](docs/part4-ai-in-your-research.zh.md) | [五篇研究](docs/part4-ai-in-your-research.zh.md#重点必读) |
 
 每部分的导读都有相同的几节：

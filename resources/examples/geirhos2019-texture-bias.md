@@ -12,7 +12,7 @@
 
 **Finding.** Networks trained on ImageNet, a large collection of labelled photos, are strongly biased towards texture, while people decide by shape. The same network design (ResNet-50, a standard image network) learns a shape-based representation instead when it is trained on *Stylized-ImageNet*, a version of ImageNet whose textures have been replaced. That network fits human behaviour better, detects objects better and is more robust to a wide range of image distortions.
 
-**Why read it.** It is the clearest example of this part's question, *same task, close scores: the same reasons?* Put two cues in conflict and see which one wins, for people and machines alike. It also shows that the answer depends on training data, not only on the architecture.
+**Why read it.** It is the clearest example of this part's question, *right answer, right reason?* Put two cues in conflict and see which one wins, for people and machines alike. It also shows that the answer depends on training data, not only on the architecture.
 
 **Limits.** Shape versus texture is one cue dimension among many. People and a model can agree on which cue wins and still fail on different images, which is what [error consistency](geirhos2020-error-consistency.md) measures.
 

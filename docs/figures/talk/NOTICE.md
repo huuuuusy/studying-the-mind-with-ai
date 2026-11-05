@@ -5,8 +5,8 @@ shapes after Heider and Simmel, and the simulated classroom) were made by Shiyu 
 *Studying the Human Mind with AI*. © 2026 Shiyu Hu. All rights reserved.
 
 The five slide images in [`slides/`](slides/) (slides 16, 27, 40, 43 and 46 of the talk) are
-also © 2026 Shiyu Hu, all rights reserved. Each slide names, at its foot, the papers its figures
-and numbers come from; the video frames on slides 16 and 43 come from the authors' own published
+also © 2026 Shiyu Hu, all rights reserved. Slides 16, 27, 40 and 43 name, at their foot, the papers their
+figures and numbers come from; the video frames on slides 16 and 43 come from the authors' own published
 tracking benchmark (VideoCube; Hu et al., IEEE TPAMI 2023).
 
 One exception: the horse photo and its heat map on slide 43 are a figure from Lapuschkin et al.,

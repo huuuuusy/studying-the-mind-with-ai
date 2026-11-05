@@ -18,7 +18,7 @@ AI does not settle what intelligence is. Turing suggested testing a machine agai
 and in a recent run of his test, judges picked GPT-4.5 with a persona as the human 73% of the time.
 Being picked as human tells us about the judges' cues, not yet about the machine's mind; the test
 also tells us about ourselves. Psychology has studied minds through behaviour, against people, for
-a century. The talk in one sentence: **AI learns from people; checked against people, it can help
+more than a century. The talk in one sentence: **AI learns from people; checked against people, it can help
 us study people.** It asks four questions, each a little bigger than the last: one person, a group,
 a society, and your own research. Halfway, the direction changes: at first psychology helps us test
 AI (behavioral analysis, Parts 1–2); later, AI helps us study people (role simulation, Parts 3–4).

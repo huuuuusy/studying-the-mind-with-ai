@@ -3,7 +3,7 @@
 # Questions psychologists bring
 
 Psychologists who hear the talk often arrive with a question from their own work. This page takes
-six of them. For each it gives the talk's short answer, the part of the talk that bears on it, and
+six of them. For each it gives a short answer, the part of the talk that bears on it, and
 what to read first. It offers readings and interpretation, not a study design: the design is yours
 to make, with your own measures, ethics approval and participants.
 
@@ -78,8 +78,8 @@ partner, and check it over time, which psychology calls test–retest. [Part 3](
 - The same input can give different outputs, so delivery can differ between participants unless the
   decisions are fixed. Psychology's name for keeping delivery the same is treatment fidelity
   (Bellg et al., 2004, [doi](https://doi.org/10.1037/0278-6133.23.5.443)).
-- A persona set in a prompt drifts in a long conversation; one study found clear drift within eight
-  rounds (Li et al., 2024, [arXiv:2402.10962](https://arxiv.org/abs/2402.10962)). Consistency is
+- A persona set in a prompt drifts in a long conversation; one study found clear drift within
+  about eight rounds (Li et al., 2024, [arXiv:2402.10962](https://arxiv.org/abs/2402.10962)). Consistency is
   tested across sessions: tell the agent something in the first, and ask about it in a later one.
 - How responsive the agent is and how responsive it feels are two measures, and beliefs about the
   source change the second (question 2).
@@ -154,8 +154,8 @@ compare the whole range with real people.
   ([Aher et al., 2023](literature.md#simulated-participants-and-silicon-samples)); individual
   differences are often what a study is about.
 - An agent can name an emotion-regulation strategy and pick one, but it has no body whose state the
-  strategy changes. A high score on an emotion test shows it knows the keyed answers, not what it
-  responds to (Schlegel et al., 2025, in the [reading list on emotion](students.md#emotion-and-affective-science)).
+  strategy changes. A high score on an emotion test shows it knows the keyed answers, not that it
+  feels anything (Schlegel et al., 2025, in the [reading list on emotion](students.md#emotion-and-affective-science)).
 
 **Read.** [Out of one, many: silicon samples](examples/argyle2023-silicon-samples.md); the
 field-wide lists on [language models on cognitive-psychology tasks](literature.md#llmsvlms-on-cognitive-psychology-tasks-and-batteries-incl-critiques)

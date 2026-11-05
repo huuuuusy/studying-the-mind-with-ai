@@ -230,7 +230,7 @@
 
 **含义。** 图灵的模仿游戏：一位评判者用文字同一台机器和一个人交谈，说出哪个是哪个。在标准的三方版本中，评判者同时和两者交谈。
 **在心理学里。** 一种盲评，也是对人如何区分人与机器的一种测量。
-**在哪里出现。** 讲座开场（[从这里开始](start-here.zh.md)）：图灵的测试，2026 年重做了一次（Jones & Bergen）。[第 3 部分](part3-people-we-make.zh.md)：哪条回复出自真实的人？
+**在哪里出现。** 讲座开场（[从这里开始](start-here.zh.md)）：图灵的测试，2026 年重做了一次（Jones & Bergen）。[第 3 部分](part3-people-we-make.zh.md)：老师会把虚拟学生的回答当成真实的吗？
 **容易弄错。** 通过测试说明的是，在这些评判者看来对话像人，而不是背后有一个像人的心智。
 **阅读。** Turing, A. M. (1950). Computing machinery and intelligence. *Mind.* [doi:10.1093/mind/lix.236.433](https://doi.org/10.1093/mind/lix.236.433)；Jones & Bergen (2026)，[卡片](../resources/examples/jones2026-turing-test.zh.md)。
 

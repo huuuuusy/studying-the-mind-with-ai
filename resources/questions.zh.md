@@ -2,7 +2,7 @@
 
 # 心理学家常带来的问题
 
-听讲座的心理学研究者，常常带着自己研究里的一个问题来。这一页挑出其中六个。每个问题给出讲座的简短回答、讲座里相关的部分，以及先读什么。这里提供的是阅读和解读，不是研究设计：设计要由你自己来做，用你自己的测量，经过伦理审批，找你自己的被试。
+听讲座的心理学研究者，常常带着自己研究里的一个问题来。这一页挑出其中六个。每个问题给出一个简短的回答、讲座里相关的部分，以及先读什么。这里提供的是阅读和解读，不是研究设计：设计要由你自己来做，用你自己的测量，经过伦理审批，找你自己的被试。
 
 六个问题：
 
@@ -91,7 +91,7 @@
 **要记住的几点。**
 - 经典任务和它们的答案都在训练文本里。GPT-3 解出了一个有名的卡片任务，卡片顺序一换就失败了（Binz & Schulz, 2023，[doi](https://doi.org/10.1073/pnas.2218523120)）；新的变式比经典版本测到的更多。
 - 模拟被试比真人更一致，也更彼此相像（[Aher et al., 2023](literature.md#simulated-participants-and-silicon-samples)）；而个体差异往往正是一项研究要研究的东西。
-- 智能体能说出一种情绪调节策略，也能选一种，但它没有一个会被这种策略改变状态的身体。情绪测验分数高，说明它知道标准答案，不说明它对什么有反应（Schlegel et al., 2025，见阅读清单里的[情绪与情感科学](students.md#emotion-and-affective-science)）。
+- 智能体能说出一种情绪调节策略，也能选一种，但它没有一个会被这种策略改变状态的身体。情绪测验分数高，说明它知道标准答案，不说明它有感受（Schlegel et al., 2025，见阅读清单里的[情绪与情感科学](students.md#emotion-and-affective-science)）。
 
 **读。** [由一而多：硅样本](examples/argyle2023-silicon-samples.zh.md)；全领域文献清单（英文）里的[语言模型做认知心理学任务](literature.md#llmsvlms-on-cognitive-psychology-tasks-and-batteries-incl-critiques)和[模拟被试](literature.md#simulated-participants-and-silicon-samples)。
 
