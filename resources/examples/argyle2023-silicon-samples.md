@@ -4,7 +4,7 @@
 
 **Study.** Argyle, L. P., Busby, E. C., Fulda, N., Gubler, J., Rytting, C., & Wingate, D. (2023). Out of one, many: Using language models to simulate human samples. *Political Analysis, 31*(3), 337–351. [doi:10.1017/pan.2023.2](https://doi.org/10.1017/pan.2023.2) · [arXiv](https://arxiv.org/abs/2209.06899)
 
-**In the talk.** Not shown in the talk; read it with [Part 4, AI in your own research](../../docs/part4-ai-in-your-research.md): silicon samples answer like each subgroup, so they can pretest a study but not replace the sample. Its key-reading entry is in [Part 3, A society: people we make](../../docs/part3-people-we-make.md).
+**In the talk.** Not shown in the talk; read it with [Part 3, A society: people we make](../../docs/part3-people-we-make.md), and again with [Part 4](../../docs/part4-ai-in-your-research.md) as a pretest: silicon samples answer like each subgroup, so they can pretest a study but not replace the sample. Its key-reading entry is in [Part 3, A society: people we make](../../docs/part3-people-we-make.md).
 
 **Question.** Can a language model take the place of specific groups of people in social science research, for example by answering a survey as a person with a given background would?
 

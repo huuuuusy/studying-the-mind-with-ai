@@ -58,7 +58,7 @@ analysis, Parts 1–2); later, AI helps us study people (role simulation, Parts 
 | 1 · One person: people next to the machine | Right answer, right reason? | Not yet: close scores, different mistakes. To check the reason, **compare the mistakes, not only the scores**. | [Part 1](part1-people-next-to-machine.md) |
 | 2 · A group: people as the answer | Whose standard does it follow? | A group of people, not one person. To check the standard, **compare with a group, not one person**. | [Part 2](part2-people-as-the-answer.md) |
 | 3 · A society: people we make | Is it like us enough to study us? | To rehearse a study, not to replace its people. To check a simulation, **compare it with real people**. | [Part 3](part3-people-we-make.md) |
-| 4 · AI in your own research | How can you use it? | **Check it first, then use it**: from multimodal learning, take one signal away and test where the data changes; from evaluation, compare with a group of people and look past the average; from agent modelling, check it against real people, the whole range and over time. | [Part 4](part4-ai-in-your-research.md) |
+| 4 · AI in your own research | How can you use it? | **Check it first, then use it**: when a model reads several signals, take one away and test where the data change; when you evaluate it, use a group as the reference and look past the average; when it plays a person, see the whole range and check it over time. | [Part 4](part4-ai-in-your-research.md) |
 
 <img src="figures/talk/slides/p46.png" width="88%" alt="Slide 46: the four questions and the talk's answer to each">
 
@@ -114,11 +114,16 @@ the job of psychology and the humanities.
 The talk ended on that view, and on a last page that points to this repository. For questions, it
 gathered its answers into five, each pointing back to the pages that make it:
 
-1. **Look past the score.** Right answer, right reason? (Part 1, and multimodal learning in Part 4.)
-2. **Compare with a group.** Whose standard? (Part 2, and evaluation in Part 4.)
-3. **Rehearse, don't replace.** Like us enough to study us? (Part 3, and agent modelling in Part 4.)
-4. **Check it over time.** Does it stay itself? (The virtual students of Part 3.)
-5. **Judging is psychology's job.** When making gets cheap, your training is the check.
+1. **Look past the score.** Right answer, right reason? Take the cue away; if the answer survives,
+   trust it. Psychology calls it a control condition. (The opening and Part 1.)
+2. **Compare with a group.** Whose standard? Raters' agreement is the ceiling; measure it first.
+   Psychology calls it inter-rater reliability. (Part 2, and the digital twins of Part 3.)
+3. **Rehearse, don't replace.** Like us enough to study us? Rehearse in simulation, decide with
+   people. Psychology calls it a pilot. (Part 3, and agent modelling in Part 4.)
+4. **Check it over time.** Does it stay itself? Ask again later. Psychology calls it test–retest,
+   and treatment fidelity. (The virtual students of Part 3, and agent modelling in Part 4.)
+5. **Judging is psychology's job.** When making gets cheap, AI makes and people judge; measurement,
+   design and validity are psychology's tools for checking AI. (Part 4 and the closing view.)
 
 ## How much there is to read
 
@@ -131,9 +136,10 @@ About 300 checked references in all, in four layers. Start with the first and go
 | The wider field | the [field-wide list](../resources/literature.md), in 19 groups across Parts 1–3 (101, 102 and 108 entries); about 250 papers, 49 data sets and 13 simulation platforms | 311 entries |
 | Other ways in | reading lists [by part of the talk](../resources/README.md) (53) and [by area of psychology](../resources/students.md) (46, in five areas), which overlap with the above | 99 entries |
 
-## Three ways in
+## Four ways in
 
 - **You want to understand a moment of the talk.** Open the part's guide above.
+- **You bring a question from your own work.** [Questions psychologists bring](../resources/questions.md) takes six of them, from measuring well-being to agents as participants, each with the talk's short answer and what to read.
 - **You want to read systematically.** Follow the [reading path](../resources/reading-path.md): an afternoon's start, then one part at a time, then the debates.
 - **You want to start a study with an AI researcher.** The [guide to working together](../resources/working-together.md) sets out what psychology and AI research each bring, what to agree on, and a published study to learn from for each part.
 

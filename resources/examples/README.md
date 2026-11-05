@@ -12,6 +12,7 @@ which part of the talk to read it with.
 
 | Part | Card | Study | Method | Data public |
 |---|---|---|---|---|
+| opening | [A three-party Turing test, with a persona](jones2026-turing-test.md) | Jones & Bergen, 2026, *PNAS* | preregistered, randomised Turing tests; with and without a persona | see article |
 | 1 · one person | [A cat with elephant skin](geirhos2019-texture-bias.md) | Geirhos et al., 2019, *ICLR* | cue-conflict stimuli, laboratory psychophysics | yes |
 | 1 · one person | [Close scores, different mistakes](geirhos2020-error-consistency.md) | Geirhos, Meding & Wichmann, 2020, *NeurIPS* | trial-by-trial error consistency (Cohen's κ) | code yes |
 | 1 · one person | [A right answer found in the wrong place](lapuschkin2019-clever-hans.md) | Lapuschkin et al., 2019, *Nature Communications* | explanation maps; removing and adding the cue | public data sets |
@@ -27,7 +28,6 @@ which part of the talk to read it with.
 | 3 · a society | [One agent for each of 1,052 people](park2024-simulating-1000-people.md) | Park et al., arXiv:2411.10109 | agents from two-hour interviews, checked against each person's own answers two weeks later | code yes; agents on request |
 | 3 · a society | [Out of one, many: silicon samples](argyle2023-silicon-samples.md) | Argyle et al., 2023, *Political Analysis* | model conditioned on real respondents' backgrounds, compared with their answers | survey data public |
 | 3 · a society | [Measuring and shaping a model's personality](serapio2025-personality.md) | Serapio-García et al., 2025, *Nature Machine Intelligence* | psychometric reliability and validity; shaping traits by instruction | see article |
-| opening | [A three-party Turing test, with a persona](jones2026-turing-test.md) | Jones & Bergen, 2026, *PNAS* | preregistered, randomised Turing tests; with and without a persona | see article |
 | 3 · a society | [Asch's experiment with language-model agents](weng2025-conformity.md) | Weng, Chen & Wang, 2025, *ICLR* | Asch-style protocols; conformity and independence rates | code yes |
 | 4 · your research | [A model as a coder](gilardi2023-ai-annotation.md) | Gilardi et al., 2023, *PNAS*, with Reiss, 2023 | model against crowd workers and trained annotators; repeated and reworded prompts | see articles |
 | 4 · your research | [Psychological text analysis in twelve languages](rathje2024-psychological-text.md) | Rathje et al., 2024, *PNAS* | 47,925 annotated texts, 12 languages; model against dictionaries and fine-tuned models (models given extra training on the task) | sample code |

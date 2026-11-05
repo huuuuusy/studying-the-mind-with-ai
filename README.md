@@ -29,7 +29,7 @@ AI (behavioral analysis, Parts 1–2); later, AI helps us study people (role sim
 | 1 · One person: people next to the machine | Right answer, right reason? Not yet: close scores, different mistakes. **Compare the mistakes, not only the scores.** | [guide](docs/part1-people-next-to-machine.md) | [five studies](docs/part1-people-next-to-machine.md#key-readings) |
 | 2 · A group: people as the answer | Whose standard does it follow? A group of people, not one person. **Compare with a group, not one person.** | [guide](docs/part2-people-as-the-answer.md) | [five studies](docs/part2-people-as-the-answer.md#key-readings) |
 | 3 · A society: people we make | Is it like us enough to study us? To rehearse a study, not to replace its people. **Compare it with real people.** | [guide](docs/part3-people-we-make.md) | [five studies](docs/part3-people-we-make.md#key-readings) |
-| 4 · AI in your own research | How can you use it? **Check it first, then use it**, whether a model reads your data, is scored against people or plays a person. | [guide](docs/part4-ai-in-your-research.md) | [five studies](docs/part4-ai-in-your-research.md#key-readings) |
+| 4 · AI in your own research | How can you use it? **Check it first, then use it**, whether a model reads several signals, is evaluated against your raters, or plays a person. | [guide](docs/part4-ai-in-your-research.md) | [five studies](docs/part4-ai-in-your-research.md#key-readings) |
 
 Each guide has the same sections:
 - what the talk showed and the question behind it;
@@ -43,6 +43,7 @@ Each guide has the same sections:
 
 - **Just heard the talk?** [Start here](docs/start-here.md): five minutes, then the part you remember best.
 - **Want to read systematically?** The [reading path](resources/reading-path.md): an afternoon's start, one part at a time, then the debates.
+- **Bringing a question from your own work?** [Questions psychologists bring](resources/questions.md): measuring well-being, human contact, companions, many signals, gaze and deception, agents as participants.
 - **Want to start a study with an AI researcher?** The [guide to working together](resources/working-together.md): what each side brings, what to agree on, and a published study to learn from for each part.
 - **Met an unfamiliar term?** The [glossary](docs/glossary.md).
 - **Prefer paper, or GitHub is slow where you are?** The [printable handout](docs/handout/handout.pdf).

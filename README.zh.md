@@ -19,7 +19,7 @@
 | 1 · 一个人：机器旁边的人 | 答对了，理由也对吗？还没有：分数相近，错误不同。**比错误，不只比分数。** | [导读](docs/part1-people-next-to-machine.zh.md) | [五篇研究](docs/part1-people-next-to-machine.zh.md#重点必读) |
 | 2 · 一群人：人作为答案 | 它遵循谁的标准？一群人，而不是一个人。**拿一群人比，不拿一个人比。** | [导读](docs/part2-people-as-the-answer.zh.md) | [五篇研究](docs/part2-people-as-the-answer.zh.md#重点必读) |
 | 3 · 一个社会：我们造出来的人 | 它像我们，像到能研究我们吗？用来预演一项研究，不能取代研究里的人。**拿真实的人比。** | [导读](docs/part3-people-we-make.zh.md) | [五篇研究](docs/part3-people-we-make.zh.md#重点必读) |
-| 4 · 在你自己的研究里用 AI | 你可以怎样用它？**先检验，再使用**：不管模型是读你的数据、拿人来打分，还是扮演一个人。 | [导读](docs/part4-ai-in-your-research.zh.md) | [五篇研究](docs/part4-ai-in-your-research.zh.md#重点必读) |
+| 4 · 在你自己的研究里用 AI | 你可以怎样用它？**先检验，再使用**：不管模型是同时读好几种信号、拿你的评分者来评测，还是扮演一个人。 | [导读](docs/part4-ai-in-your-research.zh.md) | [五篇研究](docs/part4-ai-in-your-research.zh.md#重点必读) |
 
 每部分的导读都有相同的几节：
 - 讲座里讲了什么，以及背后的问题；
@@ -33,6 +33,7 @@
 
 - **刚听完讲座？** [从这里开始](docs/start-here.zh.md)：五分钟，然后去你印象最深的那一部分。
 - **想系统地读？** [阅读路线](resources/reading-path.zh.md)：先用一个下午入门，再一部分一部分读，最后读争论。
+- **带着自己研究里的问题来？** [心理学家常带来的问题](resources/questions.zh.md)：测量幸福感、人与人的接触、陪伴者、多种信号、眼动和说谎、智能体当被试。
 - **想和 AI 研究者一起做研究？** [一起做研究的指南](resources/working-together.zh.md)：两边各带来什么、要谈妥什么，以及每部分一项可以借鉴的已发表研究。
 - **遇到不认识的术语？** 查[词典](docs/glossary.zh.md)。
 - **更喜欢纸质的，或者你那里访问 GitHub 很慢？** 下载[可打印的讲义](docs/handout/handout.zh.pdf)。
@@ -69,7 +70,7 @@
 
 ## 如何引用
 
-使用 GitHub 上的 **Cite this repository**，或者 [`CITATION.cff`](CITATION.cff) 文件：Hu, S. (2026). *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation. A reading companion to the talk*. Zenodo. [doi:10.5281/zenodo.23684070](https://doi.org/10.5281/zenodo.23684070)凡是从原始研究中取用的内容，请引用原始论文。
+使用 GitHub 上的 **Cite this repository**，或者 [`CITATION.cff`](CITATION.cff) 文件：Hu, S. (2026). *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation. A reading companion to the talk*. Zenodo. [doi:10.5281/zenodo.23684070](https://doi.org/10.5281/zenodo.23684070)。凡是从原始研究中取用的内容，请引用原始论文。
 
 ## 参与贡献
 

@@ -11,11 +11,13 @@
 
 ## 讲座里讲了什么
 
-**心理学早就知道的。** 给人看移动的图形，人会从中读出意图，而且每个人读得都不太一样：人不是一把尺子，而是一个分布。Thurstone 在 1927 年给出了办法，把很多人在一对对选项之间的选择，变成一把尺子。
+**心理学早就知道的。** 给人看移动的图形，人会从中读出意图，而且每个人读得都不太一样：人的判断不是一个统一的答案，而是一个分布。Thurstone 在 1927 年给出了办法，把很多人在一对对选项之间的选择，排到同一把量尺上。
 
 **AI 领域的经典工作。** 就在 ChatGPT 之前，这个来自心理学的想法教会了模型人们想要什么。2020 年，GPT-3 有 1750 亿个参数（模型在学习中调整的那些数值）。光靠规模，并不能给出人们喜欢的回答。2022 年 3 月的 InstructGPT 用上了基于人类反馈的强化学习（RLHF）：人给同一个提示词的几个回答排序，每个排序拆成一对一对的比较，这又是成对比较。用这些比较训练一个打分模型（“奖励模型”），聊天模型再学着在这个打分模型上拿高分。之后，人们更喜欢 13 亿参数的 InstructGPT 模型给出的回答，它比 GPT-3 小了一百多倍。同年 11 月的 ChatGPT 用的是同样的方法。可是这些排序出自大约 40 名标注员（也就是心理学说的评分者），他们彼此只有约 73% 的时候意见一致。它学到的，是谁的偏好？
 
-**讲者团队做了什么。** 以人为参照理解视频。连那些标注员也不总是一致，所以人的判断是一个分布，不是一个答案。AI 的常规测试却看不到这一点：它只要一句话，再和一个参考答案比，就像一个最终分数。所以团队把理解拆开，这和第 1 部分是同一个想法：不停在最终分数上，要看过程。发生了什么：从一个动作到整个故事。为什么：一步一步地问，这是 CausalStep。描述接近人：人答对 92.0%，最好的模型答对 85.2%。解释为什么却差得远：人答对 76.8%，最好的模型只有 39.8%，大约是人的一半。这是谁的解读：这是 FIOVA，五个人分别描述 3,002 段视频中的每一段。其中一段里，一个骑平衡车的孩子摔倒了。五个人都同意，他最后倒在了地上。这意味着什么，他们却说法不一：有一个人说他在装，有人说在哭，也有人说在笑。一个 AI 模型选了其中一种读法，“在哭”，并把它当成事实说了出来。所以五份描述全部保留，逐个事件地把模型和这一群人比较。这叫认知加权：五份描述越看重一个事件，它的权重越高；这说明的是观看者之间的一致，而不是这件事一定发生了。有一个模型的描述，覆盖了总权重的大约三分之一。
+**讲者团队做了什么。** 以人为参照理解视频。连那些标注员也不总是一致，所以人的判断是一个分布，不是一个答案。AI 的常规测试却看不到这一点：它只要一句话，再和一个参考答案比，就像一个最终分数。所以团队像心理学那样把理解拆开（人会把一段活动切分成一个个事件，小事件嵌套在大事件里；Zacks et al., 2001），这和第 1 部分是同一个想法：不停在最终分数上，要看过程。第一问是发生了什么，从一个动作问到整个故事；第二问是为什么，一步一步地问，这就是 CausalStep。描述接近人：人答对 92.0%，最好的模型答对 85.2%。解释为什么却差得远：人答对 76.8%，最好的模型只有 39.8%，大约是人的一半。
+
+第三问是这是谁的解读，这就是 FIOVA：五个人分别描述 3,002 段视频中的每一段。其中一段里，一个骑平衡车的孩子摔倒了。五个人都同意，他最后倒在了地上。这意味着什么，他们却说法不一：有一个人说他在装，有人说在哭，也有人说在笑。一个 AI 模型选了其中一种读法，“在哭”，并把它当成事实说了出来。所以五份描述全部保留，逐个事件地把模型和这一群人比较。这叫认知加权：五份描述越看重一个事件，它的权重越高；这说明的是观看者之间的一致，而不是这件事一定发生了。有一个模型的描述，覆盖了总权重的大约三分之一。
 
 **同一群人，两种选择。** 训练聊天机器人时，大家被平均成一种偏好，模型只学到一个“最好”的回答，尽管那些标注员只有约 73% 的时候意见一致。团队的测试保留全部五种解读，所以能看到模型覆盖了哪些、漏掉了哪些，也就知道下一步该训练什么。平均会藏起人与人的差异。好的测试应该把差异留下来。
 
@@ -117,7 +119,7 @@ flowchart LR
 - **一致性是一种测量。** 心理学很早就在测量评分者之间有多一致：Cohen's κ 用于两位评分者和类别数据（1960），Krippendorff's α 适用于任意多位评分者和各种数据类型（Hayes & Krippendorff, 2007，[doi](https://doi.org/10.1080/19312450709336664)）。这一部分的习惯是把模型当作又一位评分者，看它和人的一致程度是否达到人与人之间的一致程度。
 - **分歧是数据。** Dawid 和 Skene（1979，[doi](https://doi.org/10.2307/2346806)）估计每位观察者的错误率，而不是相信多数人的意见。Aroyo 和 Welty（2015，*Truth is a lie*，[doi](https://doi.org/10.1609/aimag.v36i1.2564)）认为，很多时候根本不存在一个可以还原的唯一真实标签。[CIFAR-10H](../resources/examples/peterson2019-cifar10h.zh.md) 为一个图像数据集收集了完整的人类分布，[Uma 等](../resources/examples/uma2021-learning-from-disagreement.zh.md)则把整个领域梳理到了一起。
 - **看到的与推断的。** [Heider 和 Simmel](../resources/examples/heider1944-moving-shapes.zh.md) 发现，人们对动作的解读几乎一致，对动机的解读却各不相同。[Emo-FilM](../resources/examples/morgenroth2025-emo-film.zh.md) 在现代的情绪评分里看到了同样的模式：评分者评判感受时，一致性只是中等。
-- **人的判断成为训练信号，又被取代。** Thurstone 把人在一对对选项之间的选择变成一把尺子（1927，*Psychological Review*，[doi](https://doi.org/10.1037/h0070288)）；Bradley 和 Terry 给出了今天的奖励模型所依据的统计模型（1952，*Biometrika*，[doi](https://doi.org/10.2307/2334029)）。从人类偏好中学习（Christiano 等，2017，[NeurIPS](https://papers.nips.cc/paper/2017/hash/d5e2c0adad503c91f91df240d0cd4e49-Abstract.html)）成了 [InstructGPT](../resources/examples/ouyang2022-human-feedback.zh.md) 背后的训练方法。如今语言模型被用来代替人当评判者。Zheng 等（2023，*Judging LLM-as-a-judge*，[doi](https://doi.org/10.52202/075280-2020)）报告 GPT-4 与人类偏好的一致率超过 80%，与人与人之间的一致率相当，同时也报告了位置偏差、冗长偏差和偏向自己的偏差。
+- **人的判断成为训练信号，又被取代。** Thurstone 把人在一对对选项之间的选择排到同一把量尺上（1927，*Psychological Review*，[doi](https://doi.org/10.1037/h0070288)）；Bradley 和 Terry 给出了今天的奖励模型所依据的统计模型（1952，*Biometrika*，[doi](https://doi.org/10.2307/2334029)）。从人类偏好中学习（Christiano 等，2017，[NeurIPS](https://papers.nips.cc/paper/2017/hash/d5e2c0adad503c91f91df240d0cd4e49-Abstract.html)）成了 [InstructGPT](../resources/examples/ouyang2022-human-feedback.zh.md) 背后的训练方法。如今语言模型被用来代替人当评判者。Zheng 等（2023，*Judging LLM-as-a-judge*，[doi](https://doi.org/10.52202/075280-2020)）报告 GPT-4 与人类偏好的一致率超过 80%，与人与人之间的一致率相当，同时也报告了位置偏差、冗长偏差和偏向自己的偏差。
 
 **悬而未决的问题。** 如果人们在哪个回答更好这件事上只有 73% 的时候意见一致，在情绪上的一致性只有 0.38，那么“与人类标签一致”就不是一个定义清楚的目标。一个比任何人都更贴近多数意见的模型，可能是把分歧*抹平*了，而不是匹配了它。报告模型的一致程度时，要放在人与人之间一致程度的范围里，并说明它有没有保留人们之间的分布。
 
@@ -127,12 +129,12 @@ flowchart LR
 
 | 分组 | 涵盖内容 | 条目数 |
 |---|---|---|
-| [大语言模型当标注者和编码者](../resources/literature.md#llms-as-annotators--coders-of-psychological-and-social-science-constructs) | 语言模型为心理学和社会科学的文本打标签，以及如何验证（另见[第 4 部分](part4-ai-in-your-research.zh.md)） | 15 |
+| [大语言模型当标注员和编码者](../resources/literature.md#llms-as-annotators--coders-of-psychological-and-social-science-constructs) | 语言模型为心理学和社会科学的文本打标签，以及如何验证（另见[第 4 部分](part4-ai-in-your-research.zh.md)） | 15 |
 | [人类标注差异与视角主义](../resources/literature.md#human-label-variation-annotator-disagreement-and-perspectivism) | 人为什么会有分歧，以及如何从分歧中学习、对照分歧做评测 | 15 |
 | [机器描述与多位人类描述者的对照](../resources/literature.md#machine-description-of-people-and-scenes-vs-multiple-human-describers) | 对图像、视频和人的说明与描述，与多条人类描述相比较 | 12 |
 | [大语言模型当评判者与验证器](../resources/literature.md#llm-as-judge-and-verifiers-agreement-with-humans-biases-meta-evaluation) | 给其他模型的回答打分的模型：与人的一致性、偏差、怎样评测这些评判者 | 21 |
 | [行为感知与机器读出的心理评估](../resources/literature.md#behaviour-sensing-and-machine-read-psychological-assessment-with-validity-critiques) | 从面孔、声音、文本和行为中读出心理状态，以及对其效度的批评 | 16 |
-| [每题有多位标注者的数据集](../resources/literature.md#datasets-with-several-human-annotators-per-item) | 到哪里找每题多条人类判断的数据，以及获取方式和许可 | 23 |
+| [每题有多位标注员的数据集](../resources/literature.md#datasets-with-several-human-annotators-per-item) | 到哪里找每题多条人类判断的数据，以及获取方式和许可 | 23 |
 
 按心理学分支的阅读，见给心理学学生的清单（英文）中的[测量与心理测量](../resources/students.md#measurement-and-psychometrics)和[情绪与情感科学](../resources/students.md#emotion-and-affective-science)。
 

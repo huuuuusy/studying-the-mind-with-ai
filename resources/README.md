@@ -24,6 +24,7 @@ For psychology students and researchers who want to try a large model in a study
   - VideoCube, tracking through shot cuts and scene changes; the human eye-tracking comparison is reported on the site but not released as data. [site](http://videocube.aitestunion.com)
 - **Always record** the model, version, date, full prompt, settings and number of runs, and ask about ethics approval before collecting anything from people.
 - **Working with AI researchers:** [working-together.md](working-together.md).
+- **A question from your own work** (well-being, human contact, companions, many signals, gaze and deception, agents as participants): [questions.md](questions.md).
 
 ## Background: from the imitation game to validity
 

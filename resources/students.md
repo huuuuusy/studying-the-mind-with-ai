@@ -2,7 +2,7 @@
 
 *给心理学学生：按方向的阅读清单。本页的文献条目保留英文；中文导读从[这里](../docs/start-here.zh.md)开始。*
 
-Companion to the talk *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation* (Shiyu Hu, Wenzhou-Kean University, November 2026).
+Companion to the talk *Studying the Human Mind with AI: From Behavioral Analysis to Role Simulation* (talk by Shiyu Hu, Nanyang Technological University, given at Wenzhou-Kean University, November 2026).
 
 The talk asks one question: **it looks capable; how would we know it really is?** It asks four questions, each a little bigger than the last (one person, a group, a society, and your own research), each with a check borrowed from psychology: right answer, right reason? (compare the mistakes, not only the scores); whose standard does it follow? (compare with a group, not one person); is it like us enough to study us? (compare it with real people); and how can you use it? (check it first, then use it). The guides in this repository follow the same four parts.
 
@@ -67,7 +67,7 @@ This page is organised by area of psychology; the [main list](README.md) follows
 - **classic** · Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology.* [doi:10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271). The process model behind reappraisal; read it before judging what an AI "reappraisal" actually does.
 - **frontier** · Barrett, L. F., Adolphs, R., Marsella, S., Martinez, A. M., & Pollak, S. D. (2019). Emotional expressions reconsidered: Challenges to inferring emotion from human facial movements. *Psychological Science in the Public Interest.* [doi:10.1177/1529100619832930](https://doi.org/10.1177/1529100619832930). A face is not a readout of feeling, so a machine that "reads emotion" needs a better reference than one label.
 - **frontier** · Schlegel, K., Sommer, N. R., & Mortillaro, M. (2025). Large language models are proficient in solving and creating emotional intelligence tests. *Communications Psychology.* [doi:10.1038/s44271-025-00258-x](https://doi.org/10.1038/s44271-025-00258-x). Models beat the human norms on written emotion tests; ask what the items let them respond to.
-- **frontier** · Zhan, H., Zheng, A., Lee, Y. K., Suh, J., Li, J. J., & Ong, D. C. (2024). Large language models are capable of offering cognitive reappraisal, if guided. *COLM.* [OpenReview](https://openreview.net/forum?id=yK8MT91dQY). Emotion-regulation principles written into the instructions, with clinical psychologists as judges: theory in, expert check out.
+- **frontier** · Zhan, H., Zheng, A., Lee, Y. K., Suh, J., Li, J. J., & Ong, D. C. (2024). Large language models are capable of offering cognitive reappraisal, if guided. *COLM.* [OpenReview](https://openreview.net/forum?id=yK8MT91dQY). Emotion-regulation principles written into the instructions, with experts as judges: theory in, expert check out.
 - **frontier** · Morgenroth, E., et al. (2025). Emo-FilM: A multimodal dataset for affective neuroscience using naturalistic stimuli. *Scientific Data.* [doi:10.1038/s41597-025-04803-5](https://doi.org/10.1038/s41597-025-04803-5). Data: [OpenNeuro](https://openneuro.org/datasets/ds004872). People rated 50 emotion items moment by moment while watching films and agreed only moderately; that spread is the yardstick for any AI emotion reading.
 
 ## Social and cultural psychology

@@ -206,10 +206,10 @@ to read more. Terms are grouped by the parts of the talk; an index follows at th
 
 ### Manipulation check
 
-**What it means.** A test of whether a manipulation did what it was meant to do. For a persona, the talk's check: did it move the trait it names, and mainly that trait? Wordings that should mean the same should also give the same result.
+**What it means.** A test of whether a manipulation did what it was meant to do. For a persona, the check is: did it move the trait it names, and mainly that trait? Wordings that should mean the same should also give the same result.
 **In psychology.** Standard practice in experimental social psychology before interpreting an effect of a manipulation.
 **Where it comes up.** [Part 3](part3-people-we-make.md): a persona is a manipulation.
-**Easy to get wrong.** A questionnaire on the trait is the first check, as in the talk, and it can pass. Behaviour the persona did not name is a stronger check.
+**Easy to get wrong.** A questionnaire on the trait is the first check, and it can pass (Serapio-García et al., 2025). Behaviour the persona did not name is a stronger check.
 **Read.** Serapio-García et al. (2025), [card](../resources/examples/serapio2025-personality.md).
 
 ### Silicon sample
