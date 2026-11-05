@@ -12,6 +12,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.23684070
     description: "Concept DOI: all versions, always resolves to the latest"
+  - type: doi
+    value: 10.5281/zenodo.23974132
+    description: "Version 1.0.0"
 date-released: 2026-11-05
 license: CC-BY-NC-4.0
 abstract: "A bilingual (English and Chinese) reading companion to the talk Studying the Human Mind with AI: a start page, a guide to each of the talk's four parts, 22 one-page cards on key readings, a glossary, a reading path, a field-wide list of checked references, a page on questions psychologists bring, a guide to working with AI researchers, a printable handout, and the slides of the talk as a PDF."
